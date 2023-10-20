@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "649299ff7834c78a057d1229"
+  },
+  "brandName": "All",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64929a567834c78a057d1234"
+  },
+  "brandName": "Crabgrass",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64929a6d7834c78a057d123a"
+  },
+  "brandName": "Classio",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64929a807834c78a057d123e"
+  },
+  "brandName": "virajmaan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64929a8f7834c78a057d1242"
+  },
+  "brandName": "Manner",
+  "__v": 0
+}]

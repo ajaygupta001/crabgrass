@@ -1,0 +1,6551 @@
+[{
+  "_id": {
+    "$oid": "64284f79697f1284ae82890f"
+  },
+  "date": "4/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sagar",
+  "price": 1400,
+  "quantity": 15,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "0b734f61fbb1",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d924f6545aadb3069ad98"
+  },
+  "date": "4/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rohit",
+  "price": 1000,
+  "quantity": 63,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642ff6aceadd0a9a35019da3"
+  },
+  "date": "4/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sunny7860078650",
+  "price": 800,
+  "quantity": 58,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ae",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7860078650"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64317c022855f3c6c5f6408c"
+  },
+  "date": "4/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "KARTIK",
+  "price": 1500,
+  "quantity": 31,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "0b734f61fbc5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9651566566"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64327a278328f93641013d21"
+  },
+  "date": "4/9/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ravi singh",
+  "price": 1200,
+  "quantity": 45,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbba",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9044817789"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64327a278328f93641013d23"
+  },
+  "date": "4/9/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ravi singh",
+  "price": 1000,
+  "quantity": 54,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ac",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9044817789"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64327a278328f93641013d22"
+  },
+  "date": "4/9/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ravi singh",
+  "price": 800,
+  "product_name": "",
+  "product_category": "tshirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9044817789"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432a6945ab1acacc9c52e68"
+  },
+  "date": "4/9/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "mam",
+  "price": 1000,
+  "quantity": 18,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76b6",
+  "item": 1,
+  "customer_contact": 15212,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b0e1c4db069eb2d42d4b"
+  },
+  "date": "4/9/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "yash gupta",
+  "price": 14500,
+  "product_name": "suit order",
+  "product_category": "jodhpuri suit order",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8318816823"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432bb9994e1b420785ea6d4"
+  },
+  "date": "4/9/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "prashant",
+  "price": 800,
+  "quantity": 63,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feecc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9643135964"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dc1f92d46e8a09afab73"
+  },
+  "date": "4/9/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manas",
+  "price": 1000,
+  "quantity": 62,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9795248888"
+  },
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dc1f92d46e8a09afab72"
+  },
+  "date": "4/9/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manas",
+  "price": 800,
+  "quantity": 55,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ae",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9795248888"
+  },
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433da44634e43de66015d22"
+  },
+  "date": "4/10/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anurag",
+  "price": 2850,
+  "quantity": 3,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "01e57344c73c",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9140072393"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433da44634e43de66015d23"
+  },
+  "date": "4/10/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anurag",
+  "price": 9000,
+  "product_name": "indowerstion",
+  "product_category": "indo",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9140072393"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433ee06c79d7661a796f18a"
+  },
+  "date": "4/10/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "shufayana akther",
+  "price": 1200,
+  "quantity": 68,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad99",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "6392395251"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433ee06c79d7661a796f18b"
+  },
+  "date": "4/10/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "shufayana akther",
+  "price": 1000,
+  "quantity": 61,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "6392395251"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6434079174da6467cf3a731b"
+  },
+  "date": "4/10/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rishab",
+  "price": 700,
+  "product_name": "tshirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7065887299"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643436cfb53bac33373233a0"
+  },
+  "date": "4/10/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "apoorav",
+  "price": 1000,
+  "quantity": 61,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8722000",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643436cfb53bac333732339f"
+  },
+  "date": "4/10/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "apoorav",
+  "price": 800,
+  "quantity": 111,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8721ffe",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64343be8b53bac33373233d8"
+  },
+  "date": "4/10/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ali haider",
+  "price": 5500,
+  "product_name": "",
+  "product_category": "last deliary",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9651742519"
+  },
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64353bcf2583864873317c5b"
+  },
+  "date": "4/11/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "utkarsh",
+  "price": 3590,
+  "quantity": 3,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "01e57344c746",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7275014014"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435903809f3597777991c7c"
+  },
+  "date": "4/11/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manjot singh",
+  "price": 8499,
+  "product_name": "blazer",
+  "product_category": "indo western",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7310477477"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435910d09f3597777991c84"
+  },
+  "date": "4/11/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manjot singh",
+  "price": 2660,
+  "product_name": "",
+  "product_category": "kurta paijama westcoat",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7310477477"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64368e8110598c321e839ab0"
+  },
+  "date": "4/12/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "aanchal dewedi",
+  "price": 1000,
+  "quantity": 60,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "9005804905"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64369c1ba96b306c04d0d801"
+  },
+  "date": "4/12/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "jaspreet",
+  "price": 800,
+  "quantity": 61,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feecc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9936403271"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436da5a201202451ed89f06"
+  },
+  "date": "4/12/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashish dawrani",
+  "price": 1200,
+  "product_name": "tshirt",
+  "product_category": "t-shirt",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "8896179527"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436da5a201202451ed89f07"
+  },
+  "date": "4/12/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashish dawrani",
+  "price": 1000,
+  "product_name": "tshirt",
+  "product_category": "tshirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8896179527"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436dca7201202451ed89f11"
+  },
+  "date": "4/12/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sumit",
+  "price": 2000,
+  "product_name": "stitching",
+  "product_category": "kurta dhoti sadri stole",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9335055054"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436dd13201202451ed89f14"
+  },
+  "date": "4/12/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sumit",
+  "price": 4500,
+  "product_name": "stitching",
+  "product_category": "sadri,dhoti,kurta,stole",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9335055054"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437ed1aa23e45fab22c4e35"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manish",
+  "price": 800,
+  "quantity": 60,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feecc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8488857742"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437ed1aa23e45fab22c4e34"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manish",
+  "price": 1500,
+  "quantity": 6,
+  "product_name": "CRABGRASSS",
+  "product_category": "Party wear shirt",
+  "barcode_id": "ea0f3c5feed2",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8488857742"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437fe3116b4b1d6db79b117"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "daljeet singh",
+  "price": 1800,
+  "product_name": "",
+  "product_category": "sadari",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7619899882"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437fe3116b4b1d6db79b118"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "daljeet singh",
+  "price": 1000,
+  "quantity": 58,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7619899882"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437fe3116b4b1d6db79b119"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "daljeet singh",
+  "price": 1500,
+  "quantity": 30,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "0b734f61fbc5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7619899882"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64380828f53d80c83b7d7a25"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ADITYA",
+  "price": 4500,
+  "product_name": "KURTA WAIST COAT",
+  "product_category": "KURTA WAIST COAT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8004519957"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64380828f53d80c83b7d7a24"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ADITYA",
+  "price": 2799,
+  "quantity": 16,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "2ae339cb138a",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8004519957"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643808ddf53d80c83b7d7a2e"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "DHUSHIT KAUR",
+  "price": 1200,
+  "product_name": "JEANS",
+  "product_category": "JEANS",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643808ddf53d80c83b7d7a2f"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "DHUSHIT KAUR",
+  "price": 1200,
+  "product_name": "T SHIRT",
+  "product_category": "T SHIRT",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64380f58f53d80c83b7d7a48"
+  },
+  "date": "4/13/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Hrasimran",
+  "price": 1000,
+  "product_name": "",
+  "product_category": "shose",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7007352954"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f8bc37c6004c4898c009"
+  },
+  "date": "4/14/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "shubham",
+  "price": 1200,
+  "quantity": 44,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbba",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "7838208484"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f8bc37c6004c4898c00a"
+  },
+  "date": "4/14/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "shubham",
+  "price": 1200,
+  "product_name": "t shirt",
+  "product_category": "t shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7838208484"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6439765466edc12f82326c10"
+  },
+  "date": "4/14/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "VISHASH",
+  "price": 1500,
+  "product_name": "SHOES",
+  "product_category": "SHOES",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9695267227"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a45f3375f2a94768313f3"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "shyam pratap",
+  "price": 3550,
+  "product_name": "blazer",
+  "product_category": "blazer",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9719872560"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a4854375f2a94768313fb"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "baiju panday",
+  "price": 1500,
+  "product_name": "shoes",
+  "product_category": "shoes",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8687256515"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a4854375f2a94768313fc"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "baiju panday",
+  "price": 1000,
+  "product_name": "shoes",
+  "product_category": "shoes",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8687256515"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a60f0d534044b9486e85c"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "SHUBH",
+  "price": 5500,
+  "product_name": "KURTA PAIJAM WAIST COAT",
+  "product_category": "KURTA PAIJAM WAIST COAT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8299460297"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a8fe553c5e18716ac8655"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "RANI",
+  "price": 500,
+  "product_name": "",
+  "product_category": "LOWAR",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "7068942152"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a8fe553c5e18716ac8654"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "RANI",
+  "price": 1400,
+  "quantity": 11,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "1580a302ad9b",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7068942152"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a8fe553c5e18716ac8653"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "RANI",
+  "price": 800,
+  "quantity": 107,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8721ffe",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7068942152"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643aaa801f68d6398a9406ac"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "HARSHIT",
+  "price": 1000,
+  "product_name": "",
+  "product_category": "T-SHIRT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9044142140"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643aaa801f68d6398a9406ad"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "HARSHIT",
+  "price": 1500,
+  "quantity": 14,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "1d9aa1d94dde",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9044142140"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643aaa801f68d6398a9406aa"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "HARSHIT",
+  "price": 1000,
+  "quantity": 57,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9044142140"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643aaa801f68d6398a9406ab"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "HARSHIT",
+  "price": 1200,
+  "quantity": 6,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8722004",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9044142140"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ab9441923232ddab1eadb"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "hemant bhatiya",
+  "price": 1400,
+  "quantity": 5,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "a73043661545",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9792444496"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ab9441923232ddab1eadc"
+  },
+  "date": "4/15/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "hemant bhatiya",
+  "price": 1200,
+  "product_name": "shirt stiching",
+  "product_category": "shirt stiching",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9792444496"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643bbe81a81c5a6be433bcae"
+  },
+  "date": "4/16/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rahul tripathy",
+  "price": 1000,
+  "quantity": 56,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7860168485"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643c13e92e542de406c158cc"
+  },
+  "date": "4/16/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "VIJIT GUPTA",
+  "price": 1400,
+  "quantity": 14,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "0b734f61fbb1",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8081645424"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643c13e92e542de406c158cb"
+  },
+  "date": "4/16/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "VIJIT GUPTA",
+  "price": 5500,
+  "product_name": "WAIST COAT TROUSER",
+  "product_category": "WAIST COAT TROUSER",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8081645424"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643c13e92e542de406c158cd"
+  },
+  "date": "4/16/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "VIJIT GUPTA",
+  "price": 1200,
+  "quantity": 57,
+  "product_name": "Crabgrasss",
+  "product_category": "Jeans",
+  "barcode_id": "896ec31b71fb",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8081645424"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cf31898845c444dcee32f"
+  },
+  "date": "4/17/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gaurav",
+  "price": 1200,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cf34a98845c444dcee334"
+  },
+  "date": "4/17/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gaurav",
+  "price": 1200,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cf3bf98845c444dcee33e"
+  },
+  "date": "4/17/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ramkant",
+  "price": 600,
+  "product_name": "",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9415710357"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d0de5778e36bb22ce86db"
+  },
+  "date": "4/17/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vivek agrwal",
+  "price": 4500,
+  "product_name": "",
+  "product_category": "balance amount",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "6390420584"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d0e4a778e36bb22ce86e2"
+  },
+  "date": "4/17/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sanjay agrwal",
+  "price": 800,
+  "quantity": 106,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8721ffe",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d28f4356d40708b56f8e6"
+  },
+  "date": "4/17/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "nitin ",
+  "price": 1200,
+  "quantity": 67,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad99",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9956364699"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d28f4356d40708b56f8e7"
+  },
+  "date": "4/17/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "nitin ",
+  "price": 1500,
+  "quantity": 13,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad97",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9956364699"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643e951ee74fd4c1196166b1"
+  },
+  "date": "4/18/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "DALJEET SINGH",
+  "price": 570,
+  "product_name": "SHOES",
+  "product_category": "SHOES",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ec426fd26fa200e38ac89"
+  },
+  "date": "4/18/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vivek",
+  "price": 1800,
+  "product_name": "",
+  "product_category": "formal pant stiching",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643fbe1f99326352aea43021"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anurag",
+  "price": 5000,
+  "product_name": "last balance",
+  "product_category": "last balance",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643fdd0d721acaa748ccde04"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vinod keshri",
+  "price": 1500,
+  "product_name": "shose",
+  "product_category": "shose",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8318127246"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643fdd0d721acaa748ccde03"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vinod keshri",
+  "price": 9700,
+  "product_name": "jodhpori suit",
+  "product_category": "jodhpori suit",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8318127246"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643fe479e6644117b783aff1"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vinod keshari",
+  "price": 3325,
+  "product_name": "kurta paijama sadari",
+  "product_category": "kurta paijama sadari",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8318127246"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6440093f4a7a5f738be51f3b"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 800,
+  "quantity": 59,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feecc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6440093f4a7a5f738be51f3c"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 1200,
+  "quantity": 66,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad99",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6440093f4a7a5f738be51f3f"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 800,
+  "quantity": 105,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8721ffe",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6440093f4a7a5f738be51f3e"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 1500,
+  "quantity": 8,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbb8",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6440093f4a7a5f738be51f3d"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 1500,
+  "quantity": 29,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "0b734f61fbc5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64400a154a7a5f738be51f4e"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 1500,
+  "quantity": 28,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "0b734f61fbc5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64400a154a7a5f738be51f51"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 1500,
+  "quantity": 7,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbb8",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64400a154a7a5f738be51f50"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 800,
+  "quantity": 58,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feecc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64400a154a7a5f738be51f4f"
+  },
+  "date": "4/19/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "UTKARSH",
+  "price": 1200,
+  "quantity": 65,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad99",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8188814466"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64411faacc344af03c345e6e"
+  },
+  "date": "4/20/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manu",
+  "price": 1200,
+  "quantity": 64,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad99",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64411faacc344af03c345e6d"
+  },
+  "date": "4/20/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manu",
+  "price": 1000,
+  "quantity": 59,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8722000",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6442365eb31260278ba72ed0"
+  },
+  "date": "4/21/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "RONAK",
+  "price": 7000,
+  "quantity": 6,
+  "product_name": "CLASSIO",
+  "product_category": "CL- INDO",
+  "barcode_id": "36faa68f239c",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9935424630"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644247b1bd716b7cc84f3f9a"
+  },
+  "date": "4/21/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "MANISH DYAL",
+  "price": 800,
+  "product_name": "",
+  "product_category": "T-SHIRT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9839069128"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644247b1bd716b7cc84f3f99"
+  },
+  "date": "4/21/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "MANISH DYAL",
+  "price": 1500,
+  "quantity": 5,
+  "product_name": "CRABGRASSS",
+  "product_category": "Party wear shirt",
+  "barcode_id": "ea0f3c5feed2",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9839069128"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6442750446ddc7c016110514"
+  },
+  "date": "4/21/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwani gupta",
+  "price": 1500,
+  "quantity": 27,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "0b734f61fbc5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9935490105"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6442750446ddc7c016110515"
+  },
+  "date": "4/21/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwani gupta",
+  "price": 1000,
+  "quantity": 53,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ac",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "9935490105"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64427ed546ddc7c016110585"
+  },
+  "date": "4/21/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "satanm singh",
+  "price": 1200,
+  "quantity": 17,
+  "product_name": "Crabgrass ",
+  "product_category": "party-wear Shirt",
+  "barcode_id": "f2b89e331f29",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9838885300"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644299611aa590dab57a44d8"
+  },
+  "date": "4/21/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "abhishek",
+  "price": 2799,
+  "quantity": 11,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "c1c8568dcbdc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9696303081"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6442998e1aa590dab57a44db"
+  },
+  "date": "4/21/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "abhishek",
+  "price": 2799,
+  "quantity": 10,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "c1c8568dcbdc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9696303081"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443c7cc8ff5434068b8a12c"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "LUV GUPTA",
+  "price": 8000,
+  "quantity": 2,
+  "product_name": "Signet Plus",
+  "product_category": "SP-Indo",
+  "barcode_id": "b0f915f15099",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7800209494"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443c7cc8ff5434068b8a12d"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "LUV GUPTA",
+  "price": 4500,
+  "quantity": 2,
+  "product_name": "Signet Plus",
+  "product_category": "SP-K/P/W",
+  "barcode_id": "bda0850226cf",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7800209494"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443c7cc8ff5434068b8a12e"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "LUV GUPTA",
+  "price": 5500,
+  "product_name": "kurta pjama waist coat",
+  "product_category": "kurta pjama waist coat",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7800209494"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443c8278ff5434068b8a13b"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rahul gupta",
+  "price": 800,
+  "quantity": 54,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ae",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9956039024"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443c8278ff5434068b8a13c"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rahul gupta",
+  "price": 1400,
+  "quantity": 9,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "0b734f61fbc3",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9956039024"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443efe13adf6d28e951b95f"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "hemannt",
+  "price": 7600,
+  "product_name": "back amount",
+  "product_category": "back amount",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9044321034"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443fe8d08a8bf3d77c065ae"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dipesh",
+  "price": 2799,
+  "quantity": 9,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "c1c8568dcbdc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9005292929"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444073071a5e19cffe3f0f7"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rajat gupta",
+  "price": 1200,
+  "product_name": "",
+  "product_category": "shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9839982917"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444073071a5e19cffe3f0f6"
+  },
+  "date": "4/22/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rajat gupta",
+  "price": 1000,
+  "quantity": 58,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8722000",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9839982917"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444e8a2d756d9b2e3270454"
+  },
+  "date": "4/23/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "arif",
+  "price": 3350,
+  "product_name": "",
+  "product_category": "blazer",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444f0a5a940852e0c9863f3"
+  },
+  "date": "4/23/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sumit",
+  "price": 2500,
+  "product_name": "",
+  "product_category": "sitiching ",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9335055054"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444f139a940852e0c9863fa"
+  },
+  "date": "4/23/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sourav kumar",
+  "price": 3500,
+  "quantity": 3,
+  "product_name": "BENSON",
+  "product_category": "BS-K/P/W",
+  "barcode_id": "bda0850226dd",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9569732464"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444f3c7a940852e0c986403"
+  },
+  "date": "4/23/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ankur",
+  "price": 1500,
+  "quantity": 16,
+  "product_name": "Crabgrass ",
+  "product_category": "Party-wear shirts",
+  "barcode_id": "f2b89e331f35",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9450136188"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444f3c7a940852e0c986404"
+  },
+  "date": "4/23/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ankur",
+  "price": 9500,
+  "product_name": "3pcs suit",
+  "product_category": "3pcs suit",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9450136188"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644521d50028c9ac17a4ced5"
+  },
+  "date": "4/23/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashish",
+  "price": 9799,
+  "quantity": 7,
+  "product_name": "virajmaan",
+  "product_category": "5 pcs. suit",
+  "barcode_id": "158102b123d5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8303312700"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6446345e4093fdaea9308585"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "fytfy",
+  "price": 200,
+  "product_name": "",
+  "product_category": "shirt",
+  "item": 1,
+  "customer_contact": 2252,
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64463ef2ca9fb6ac4b20fd93"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "lallo singh",
+  "price": 1200,
+  "product_name": "",
+  "product_category": "jeans",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9760839537"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64463ef2ca9fb6ac4b20fd96"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "lallo singh",
+  "price": 1000,
+  "product_name": "",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9760839537"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64463ef2ca9fb6ac4b20fd94"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "lallo singh",
+  "price": 1400,
+  "product_name": "",
+  "product_category": "formal trouser",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9760839537"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64463ef2ca9fb6ac4b20fd95"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "lallo singh",
+  "price": 1000,
+  "product_name": "",
+  "product_category": "kurta shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9760839537"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64463ef2ca9fb6ac4b20fd98"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "lallo singh",
+  "price": 1000,
+  "product_name": "",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9760839537"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64463ef2ca9fb6ac4b20fd97"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "lallo singh",
+  "price": 1200,
+  "product_name": "",
+  "product_category": "tshirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9760839537"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644645b0e4f69d0ae7b1041d"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "arif",
+  "price": 850,
+  "product_name": "",
+  "product_category": "back payment",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644699a721befffa8e52cf3a"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "SANDEEP",
+  "price": 1200,
+  "product_name": "T-SHIRT",
+  "product_category": "T-SHIRT",
+  "item": 3,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644699a721befffa8e52cf39"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "SANDEEP",
+  "price": 1500,
+  "quantity": 6,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8722008",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644699a721befffa8e52cf3b"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "SANDEEP",
+  "price": 1000,
+  "product_name": "T-SHIRT",
+  "product_category": "T-SHIRT",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644699a721befffa8e52cf38"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "SANDEEP",
+  "price": 1200,
+  "quantity": 65,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1d9aa1d94dd4",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6446b0efe83fb43afa6785cd"
+  },
+  "date": "4/24/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "SHRITHEESH BAJPAAI",
+  "price": 11399,
+  "product_name": "",
+  "product_category": "INDOWESTION",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "94153248875"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447bcaa830acabb233857c8"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "pta nahi",
+  "price": 1000,
+  "quantity": 55,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447c69eff21ff3a8a0e3059"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "yash",
+  "price": 800,
+  "product_name": "",
+  "product_category": "slipper",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447cedf270ef2ab4e1a2fb4"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh ji ",
+  "price": 6220,
+  "product_name": "indo paijama sitiching",
+  "product_category": "indo paijama sitiching",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8090937120"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447f114203159a6a0709e3b"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Rajat",
+  "price": 600,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9718170411"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447f114203159a6a0709e3a"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Rajat",
+  "price": 1200,
+  "quantity": 42,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbba",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9718170411"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447f14d203159a6a0709e40"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Rajat",
+  "price": 10568,
+  "product_name": "back payment",
+  "product_category": "back payment",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9718170411"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644800a98a7c38b5c6241e8f"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "harash",
+  "price": 1200,
+  "product_name": "shoes",
+  "product_category": "shoes",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9026844839"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644800a98a7c38b5c6241e92"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "harash",
+  "price": 10650,
+  "product_name": "back payment",
+  "product_category": "back payment",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9026844839"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644800a98a7c38b5c6241e91"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "harash",
+  "price": 2500,
+  "product_name": "waist coat",
+  "product_category": "waist coat",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9026844839"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644800a98a7c38b5c6241e90"
+  },
+  "date": "4/25/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "harash",
+  "price": 1200,
+  "product_name": "t shirt",
+  "product_category": "t shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9026844839"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64491e2b1e6ff2963e90c286"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "VIVEK",
+  "price": 7000,
+  "product_name": "JODHPURI SUIT",
+  "product_category": "JODHPURI SUIT",
+  "item": 3,
+  "customer_contact": {
+    "$numberLong": "9696967777"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64491f6e1e6ff2963e90c292"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ASHUTOSH JI",
+  "price": 16485,
+  "quantity": 1,
+  "product_name": "classio",
+  "product_category": "3 pcs.suit",
+  "barcode_id": "158102b123c5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8077983821"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64491f6e1e6ff2963e90c293"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ASHUTOSH JI",
+  "price": 1200,
+  "product_name": "SHIRT",
+  "product_category": "SHIRT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8077983821"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64491f6e1e6ff2963e90c291"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ASHUTOSH JI",
+  "price": 2799,
+  "quantity": 6,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "82c4d8ec9112",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8077983821"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64491f6e1e6ff2963e90c290"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ASHUTOSH JI",
+  "price": 1500,
+  "product_name": "SHOES",
+  "product_category": "SHOES",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8077983821"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449205d1e6ff2963e90c29f"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "KANCHAN GUPTA",
+  "price": 1000,
+  "product_name": "STOLE",
+  "product_category": "STOLE",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9794861902"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449205d1e6ff2963e90c29e"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "KANCHAN GUPTA",
+  "price": 2995,
+  "quantity": 6,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "2ae339cb1375",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9794861902"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449225b1e6ff2963e90c2a6"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "PRAKAR JI",
+  "price": 9000,
+  "quantity": 1,
+  "product_name": "Signet Plus",
+  "product_category": "SP-Indo",
+  "barcode_id": "b0f915f15095",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8527946679"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449225b1e6ff2963e90c2a9"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "PRAKAR JI",
+  "price": 1200,
+  "product_name": "SHIRT",
+  "product_category": "SHIRT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8527946679"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449225b1e6ff2963e90c2a7"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "PRAKAR JI",
+  "price": 9699,
+  "quantity": 2,
+  "product_name": "virajmaan",
+  "product_category": "jodhpuri suit",
+  "barcode_id": "158102b123ef",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8527946679"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449225b1e6ff2963e90c2a8"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "PRAKAR JI",
+  "price": 1200,
+  "quantity": 14,
+  "product_name": "Crabgrass ",
+  "product_category": "party-wear Shirt",
+  "barcode_id": "f2b89e331f29",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8527946679"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64492ef19b37268f1a211d1d"
+  },
+  "date": "26/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "romal",
+  "price": 1500,
+  "product_name": "",
+  "product_category": "shose",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9866111117"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64492ef19b37268f1a211d1c"
+  },
+  "date": "26/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "romal",
+  "price": 1200,
+  "quantity": 16,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76b4",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9866111117"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644931eb9b37268f1a211d27"
+  },
+  "date": "26/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "abhishek",
+  "price": 1200,
+  "product_name": "",
+  "product_category": "shose",
+  "item": null,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644959551cc1016e856a7d63"
+  },
+  "date": "4/26/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "varun",
+  "price": 2375,
+  "product_name": "kurta paijama",
+  "product_category": "kurta paijama",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9275111000"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a4c0e8ec8df60bca0f801"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vikash arora",
+  "price": 2799,
+  "quantity": 15,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "2ae339cb138a",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7290948010"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a4c0e8ec8df60bca0f804"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vikash arora",
+  "price": 1500,
+  "product_name": "shirt",
+  "product_category": "shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7290948010"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a4c0e8ec8df60bca0f802"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vikash arora",
+  "price": 2799,
+  "quantity": 8,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "c1c8568dcbdc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7290948010"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a4c0e8ec8df60bca0f803"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vikash arora",
+  "price": 4000,
+  "product_name": "kurta paijam",
+  "product_category": "kurta paijam",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7290948010"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a4e728ec8df60bca0f84f"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "arif bhai",
+  "price": 5400,
+  "product_name": "sitiching back payment",
+  "product_category": "sitiching back payment",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a835b7a226ab05ab628e7"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "mayur",
+  "price": 1000,
+  "quantity": 51,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ac",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9651004626"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a9506c69f751f72fa765c"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gagan",
+  "price": 3585,
+  "quantity": 4,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "82c4d8ec9121",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9889899655"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a9506c69f751f72fa765d"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gagan",
+  "price": 1000,
+  "quantity": 50,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ac",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9889899655"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a9506c69f751f72fa765f"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gagan",
+  "price": 1500,
+  "quantity": 25,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1982e106006f",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9889899655"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a9506c69f751f72fa765e"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gagan",
+  "price": 800,
+  "quantity": 53,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ae",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9889899655"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a9642c69f751f72fa766b"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gagan",
+  "price": 1200,
+  "quantity": 41,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbba",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a9642c69f751f72fa766a"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gagan",
+  "price": 1200,
+  "quantity": 56,
+  "product_name": "Crabgrasss",
+  "product_category": "Jeans",
+  "barcode_id": "896ec31b71fb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644aa4a6a44c06e072a05c74"
+  },
+  "date": "4/27/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "depash ",
+  "price": 1300,
+  "product_name": "back payment",
+  "product_category": "back payment",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b7a3477270c349e79b19a"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwani",
+  "price": 1000,
+  "quantity": 54,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9680623567"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b7a3477270c349e79b19b"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwani",
+  "price": 1000,
+  "quantity": 49,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ac",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9680623567"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b7a3477270c349e79b19c"
+  },
+  "date": "3/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwani",
+  "price": 800,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9680623567"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b7a3477270c349e79b19d"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwani",
+  "price": 1200,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9680623567"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b7a3477270c349e79b19e"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwani",
+  "price": 500,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9680623567"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b96be927fb99f571c9c4d"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sunny",
+  "price": 2300,
+  "product_name": "last balance",
+  "product_category": "last balance",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8604376376"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b9895927fb99f571c9c75"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "kamaldeep singh",
+  "price": 1000,
+  "quantity": 17,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76b6",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8081351384"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644baffc3da25556c21f91d9"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "arpit",
+  "price": 2600,
+  "product_name": "last balance",
+  "product_category": "last balance",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bca73ff79d68dc7649e62"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vishal dixit",
+  "price": 16734,
+  "product_name": "vishal dixit",
+  "product_category": "vishal dixit",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9552559055"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bcf0f4b53fe6927a4471e"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "harjeet",
+  "price": 1200,
+  "quantity": 44,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "1d9aa1d94dd6",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9839559440"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bd5ba1adc34daa165f5a0"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "shrithesh bajpai",
+  "price": 5399,
+  "product_name": "last balance",
+  "product_category": "last balance",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9415324875"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bdc4692b38fe0ae2a77ad"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "aditya",
+  "price": 11300,
+  "product_name": "last balance",
+  "product_category": "last balance",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8004519957"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bdcb692b38fe0ae2a77b1"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "aditya ",
+  "price": 2799,
+  "quantity": 16,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta Paijama",
+  "barcode_id": "01e57344c711",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8004519957"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644becdccdba013739194e85"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sumit mishra",
+  "price": 1500,
+  "quantity": 7,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "1580a302ada3",
+  "item": 1,
+  "customer_contact": 0,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bef6acdba013739194e91"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "manpreet singh",
+  "price": 1200,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9506622220"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bf2efcdba013739194e9e"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "amit ",
+  "price": 400,
+  "product_name": "shirt stiching",
+  "product_category": "shirt stiching",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "9335055054"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bf2efcdba013739194e9f"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "amit ",
+  "price": 40,
+  "product_name": "ultration",
+  "product_category": "ultration",
+  "item": 5,
+  "customer_contact": {
+    "$numberLong": "9335055054"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bf9b8abaf8755d78313fa"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dhrmesh ji",
+  "price": 1000,
+  "product_name": "shirt",
+  "product_category": "shirt",
+  "item": 1,
+  "customer_contact": 1051021,
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bfbc2abaf8755d7831401"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gagan",
+  "price": 900,
+  "product_name": "last bal",
+  "product_category": "last bal",
+  "item": 1,
+  "customer_contact": 1480452,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bfbfdabaf8755d7831407"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saddam",
+  "price": 1500,
+  "quantity": 26,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "0b734f61fbc5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9621867436"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bfe72abaf8755d7831415"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 800,
+  "product_name": "siliper",
+  "product_category": "siliper",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644c0505abaf8755d7831427"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Arif friend",
+  "price": 1200,
+  "quantity": 43,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "1d9aa1d94dd6",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644c0505abaf8755d7831426"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Arif friend",
+  "price": 800,
+  "quantity": 104,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8721ffe",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644c0505abaf8755d7831428"
+  },
+  "date": "4/28/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Arif friend",
+  "price": 1000,
+  "product_name": "shoes",
+  "product_category": "shoes",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ce62bbc35f8c2085d3229"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "DERAND KUMAR",
+  "price": 2000,
+  "product_name": "",
+  "product_category": "W/C",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9650178381"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ce62bbc35f8c2085d3227"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "DERAND KUMAR",
+  "price": 1400,
+  "quantity": 2,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "1d9aa1d94de0",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9650178381"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ce62bbc35f8c2085d3226"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "DERAND KUMAR",
+  "price": 1200,
+  "product_name": "",
+  "product_category": "SHOSE",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9650178381"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ce62bbc35f8c2085d3228"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "DERAND KUMAR",
+  "price": 1000,
+  "quantity": 57,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8722000",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9650178381"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644cf44586a09baefccbcc15"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 1500,
+  "product_name": "",
+  "product_category": "TEST",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644cfdc686a09baefccbcc3b"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashutosh",
+  "price": 16335,
+  "product_name": "last balance",
+  "product_category": "last balance",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8077982321"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644cfdc686a09baefccbcc3c"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashutosh",
+  "price": 1200,
+  "product_name": "party wear shirt",
+  "product_category": "party wear shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8077982321"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644d0cd486a09baefccbcc81"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sarbjeet singh",
+  "price": 3885,
+  "product_name": "",
+  "product_category": "kurta pjama",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9793494949"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644d0cd486a09baefccbcc80"
+  },
+  "date": "4/29/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sarbjeet singh",
+  "price": 4395,
+  "product_name": "",
+  "product_category": "blazer",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9793494949"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e2b6c97405d3d377fb5ec"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "mayank mishra ",
+  "price": 1400,
+  "product_name": "trouser",
+  "product_category": "trouser",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7752826687"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e330c15752a0473207288"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "deepak",
+  "price": 2799,
+  "product_name": "kurta paijama",
+  "product_category": "kurta paijama",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9670252972"
+  },
+  "salesManName": "gauri ",
+  "__v": 0,
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "644e3abc5b3a35d7e52bea9f"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "satyam",
+  "price": 3000,
+  "product_name": "kurta paijama",
+  "product_category": "kurta paijam",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e3abc5b3a35d7e52beaa0"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "satyam",
+  "price": 2000,
+  "product_name": "kurta paijama",
+  "product_category": "kurta paijama",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e3b9c5b3a35d7e52beab4"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "guru ji",
+  "price": 1650,
+  "product_name": "kurta paijama",
+  "product_category": "kurta paijama",
+  "item": 1,
+  "customer_contact": 1,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e68c5a4d8edf98ab9010a"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dhermander",
+  "price": 600,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9235843399"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e68c5a4d8edf98ab9010b"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dhermander",
+  "price": 600,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9235843399"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e68c5a4d8edf98ab9010c"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dhermander",
+  "price": 600,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9235843399"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e68c5a4d8edf98ab9010d"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dhermander",
+  "price": 500,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9235843399"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e68c5a4d8edf98ab9010e"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dhermander",
+  "price": 800,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9235843399"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e81147029e755f0d7dc9c"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Rishav gupta",
+  "price": 3885,
+  "product_name": "kurta pjama",
+  "product_category": "kurta pjama",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8960307171"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e81147029e755f0d7dc9e"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Rishav gupta",
+  "price": 1875,
+  "quantity": 1,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "82c4d8ec9127",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8960307171"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e81147029e755f0d7dc9d"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Rishav gupta",
+  "price": 2995,
+  "quantity": 6,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "c2b05e98f18a",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8960307171"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e827b7029e755f0d7dcb2"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vijit gupta",
+  "price": 2200,
+  "product_name": "last balance",
+  "product_category": "last balance",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e82e97029e755f0d7dcbc"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh paul",
+  "price": 16320,
+  "quantity": 2,
+  "product_name": "classio",
+  "product_category": "CL- Sherwani",
+  "barcode_id": "820149b2eeab",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9565444937"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e83f57029e755f0d7dcc7"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh paul",
+  "price": 1500,
+  "product_name": "",
+  "product_category": "jutti",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9565444937"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e85577029e755f0d7dce4"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "raja khan",
+  "price": 1000,
+  "quantity": 38,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76b0",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e8d8d7029e755f0d7dd17"
+  },
+  "date": "4/30/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vishal dixit",
+  "price": 8999,
+  "quantity": 1,
+  "product_name": "virajmaan",
+  "product_category": "VM-INDO",
+  "barcode_id": "6b7cc84f3f66",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644f782d226f11f4f516ebd8"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vivek",
+  "price": 5500,
+  "quantity": 2,
+  "product_name": "Signet Plus",
+  "product_category": "SP-K/P/W",
+  "barcode_id": "795382985157",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9696967777"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644f99498cb304b5b7953ae0"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rajendra singh",
+  "price": 1500,
+  "quantity": 12,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad97",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9919775007"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644f99498cb304b5b7953adf"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rajendra singh",
+  "price": 1500,
+  "quantity": 24,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1982e106006f",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9919775007"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644f9a468cb304b5b7953aef"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rajendra singh",
+  "price": 1200,
+  "quantity": 55,
+  "product_name": "Crabgrasss",
+  "product_category": "Jeans",
+  "barcode_id": "896ec31b71fb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fa8db2d6c55486b9e8bc3"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwarya",
+  "price": 2995,
+  "quantity": 5,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "2ae339cb1375",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7007610747"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fa8db2d6c55486b9e8bc4"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwarya",
+  "price": 1200,
+  "product_name": "shose",
+  "product_category": "shose",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7007610747"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fa90b2d6c55486b9e8bcc"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ketan",
+  "price": 1500,
+  "quantity": 11,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "a73043661520",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9717277677"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644facdf2d6c55486b9e8bd2"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vicky",
+  "price": 1000,
+  "product_name": "shirt",
+  "product_category": "shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7905775030"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fd1f2d9d69d282526f7ac"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dharmendra  kumar",
+  "price": 300,
+  "product_name": "t-shirt",
+  "product_category": "t-shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9235843399"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fdb3a7612b27fef8d1f96"
+  },
+  "date": "5/1/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "satjeet",
+  "price": 2500,
+  "product_name": "kurta paijama",
+  "product_category": "kurta paijama",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6450dbdc7a3243b95a49c4b5"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwarya",
+  "price": 100,
+  "product_name": "socks",
+  "product_category": "socks",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6450dbdc7a3243b95a49c4b4"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwarya",
+  "price": 800,
+  "quantity": 102,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8721ffe",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6450eb17895e74800c449167"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vivek",
+  "price": 11000,
+  "product_name": "last bal",
+  "product_category": "last bal",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6451183c178e23e4277a0f63"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anshul juneja",
+  "price": 11000,
+  "product_name": "sherwani",
+  "product_category": "sherwani",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9918869359"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6451183c178e23e4277a0f64"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anshul juneja",
+  "price": 1000,
+  "product_name": "shose",
+  "product_category": "shose",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9918869359"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6451288335f245373f85683e"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sanskar ",
+  "price": 2799,
+  "quantity": 15,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta Paijama",
+  "barcode_id": "01e57344c711",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8932099990"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6451288335f245373f85683d"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sanskar ",
+  "price": 2799,
+  "quantity": 14,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "2ae339cb138a",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8932099990"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64512b7135f245373f85684e"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 1350,
+  "product_name": "kurtapaijama",
+  "product_category": "kurtapaijama",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64513b6004fff24203b94afd"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "tajendra pal singh",
+  "price": 1000,
+  "quantity": 53,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 2,
+  "customer_contact": 860110010,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645144d022e77d5fcc299d0c"
+  },
+  "date": "5/2/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "dharmendra kumar",
+  "price": 1500,
+  "product_name": "formal pant stiching",
+  "product_category": "formal pant stiching",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7905232720"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64523329ec0acaf5f17c7276"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "krishna tripathi",
+  "price": 800,
+  "quantity": 52,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ae",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8130499220"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64523591ec0acaf5f17c72b6"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "pawan",
+  "price": 1000,
+  "quantity": 51,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "ea0f3c5feece",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9956118166"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64523b15ec0acaf5f17c7327"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "pawan",
+  "price": 2995,
+  "quantity": 6,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "01e57344c73e",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645256aed726fbc3459e6329"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ashwarya",
+  "price": 1500,
+  "quantity": 6,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "1580a302ada3",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645265163f52f6dd1e790abc"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "prakhar",
+  "price": 1000,
+  "quantity": 3,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "a4e368853049",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645265163f52f6dd1e790abd"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "prakhar",
+  "price": 1500,
+  "product_name": "shose",
+  "product_category": "shose",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6452679e3f52f6dd1e790ad0"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh",
+  "price": 1000,
+  "quantity": 16,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76b6",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9569194089"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64526bb21d07db7bdf045210"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "prakhar",
+  "price": 4229,
+  "product_name": "last bal",
+  "product_category": "last bal",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64526bb21d07db7bdf045211"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "prakhar",
+  "price": 2271,
+  "product_name": "ultration",
+  "product_category": "ultration",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64526f921d07db7bdf045224"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "yash gupta ",
+  "price": 10500,
+  "product_name": "last balance",
+  "product_category": "last balance",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645270131d07db7bdf04522f"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "bhairo singh",
+  "price": 1500,
+  "quantity": 11,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad97",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9369115730"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645270131d07db7bdf045230"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "bhairo singh",
+  "price": 1200,
+  "quantity": 62,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad99",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9369115730"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645270121d07db7bdf04522e"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "bhairo singh",
+  "price": 1000,
+  "quantity": 56,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8722000",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "9369115730"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6452776f55c0ee29873e5101"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "siddharth",
+  "price": 12299,
+  "quantity": 1,
+  "product_name": "virajmaan",
+  "product_category": "VM-INDO",
+  "barcode_id": "36faa68f23b6",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9695102384"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64527c5855c0ee29873e510b"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "amit",
+  "price": 2950,
+  "product_name": "sitiching payment",
+  "product_category": "sitiching payment",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64527cae55c0ee29873e510d"
+  },
+  "date": "5/3/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "amit",
+  "price": 2550,
+  "product_name": "sitiching payment",
+  "product_category": "sitiching payment",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645351e90e5a1caaad36f7e3"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "amandeep shingh",
+  "price": 1500,
+  "product_name": "shose",
+  "product_category": "shose",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9839220170"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645351e90e5a1caaad36f7e4"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "amandeep shingh",
+  "price": 100,
+  "product_name": "shokec",
+  "product_category": "shokec",
+  "item": 3,
+  "customer_contact": {
+    "$numberLong": "9839220170"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453be04474e10ffbfb7b7e5"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sanjay",
+  "price": 1500,
+  "quantity": 10,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1580a302ad97",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9889802633"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453be66474e10ffbfb7b7f2"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "aryan",
+  "price": 3000,
+  "quantity": 6,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "c1c8568dcbe6",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "6390160193"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453be66474e10ffbfb7b7f1"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "aryan",
+  "price": 2799,
+  "quantity": 8,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "9052e4803309",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "6390160193"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453bf30474e10ffbfb7b7fe"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "abhishek sriwastav",
+  "price": 5500,
+  "quantity": 2,
+  "product_name": "Signet Plus",
+  "product_category": "SP-K/P/W",
+  "barcode_id": "bda0850226d1",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9140341410"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453c291474e10ffbfb7b811"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "prakhar",
+  "price": 100,
+  "product_name": "socks",
+  "product_category": "socks",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453c397474e10ffbfb7b81f"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rachana gupta",
+  "price": 1500,
+  "quantity": 2,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "0b734f61fbc1",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8318879010"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453c397474e10ffbfb7b820"
+  },
+  "date": "5/4/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "rachana gupta",
+  "price": 1500,
+  "quantity": 4,
+  "product_name": "CRABGRASSS",
+  "product_category": "Party wear shirt",
+  "barcode_id": "ea0f3c5feed2",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8318879010"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454de93661b4a03bd4a0833"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "MANISH",
+  "price": 9799,
+  "quantity": 6,
+  "product_name": "virajmaan",
+  "product_category": "5 pcs. suit",
+  "barcode_id": "158102b123d5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8004027148"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454de93661b4a03bd4a0834"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "MANISH",
+  "price": 1350,
+  "product_name": "kurta paijama",
+  "product_category": "kurta paijama",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8004027148"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454f3023f4a7583cfca8ee3"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anita sahu",
+  "price": 3150,
+  "quantity": 2,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "82c4d8ec912b",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7398040068"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454f64a3f4a7583cfca8ef1"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anurag mishra",
+  "price": 6500,
+  "quantity": 2,
+  "product_name": "HERITAGE",
+  "product_category": "HT- JODHPURI SUIT",
+  "barcode_id": "b0f915f1504d",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7895262624"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454fe1a8c41363bef6f8ac4"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "nitin yadav",
+  "price": 1200,
+  "quantity": 54,
+  "product_name": "Crabgrasss",
+  "product_category": "Jeans",
+  "barcode_id": "896ec31b71fb",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9305110037"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454fe1a8c41363bef6f8ac2"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "nitin yadav",
+  "price": 800,
+  "quantity": 51,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76ae",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9305110037"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454fe1a8c41363bef6f8ac3"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "nitin yadav",
+  "price": 1400,
+  "quantity": 13,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "0b734f61fbb1",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9305110037"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454fe1a8c41363bef6f8ac1"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "nitin yadav",
+  "price": 1000,
+  "quantity": 37,
+  "product_name": "CRABGRASSS",
+  "product_category": "Shirt",
+  "barcode_id": "4b0c5d5d76b0",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9305110037"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64551c8639fcfedf5a1216a8"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "taran singh",
+  "price": 1200,
+  "quantity": 40,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbba",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9648483023"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64552680f3e3143854bb11cd"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ritesh ",
+  "price": 1400,
+  "quantity": 10,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "1580a302ad9b",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "9336115527"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64552a29f3e3143854bb11e8"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh",
+  "price": 1200,
+  "quantity": 64,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "1d9aa1d94dd4",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8090937120"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64552a29f3e3143854bb11e9"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh",
+  "price": 5720,
+  "product_name": "",
+  "product_category": "back balance",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8090937120"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64552a29f3e3143854bb11ea"
+  },
+  "date": "5/5/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh",
+  "price": 1000,
+  "product_name": "pajama",
+  "product_category": "trouser ",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8090937120"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64565bfaedfed487dee98cce"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "pranjul",
+  "price": 10000,
+  "quantity": 1,
+  "product_name": "BANSON",
+  "product_category": "BS-INDO",
+  "barcode_id": "6b7cc84f3f6c",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645669f92c901e8cb23550e4"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "RAJESH ",
+  "price": 1200,
+  "quantity": 38,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbba",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9984840666"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645669f92c901e8cb23550e3"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "RAJESH ",
+  "price": 800,
+  "product_name": "T-SHIRT",
+  "product_category": "T-SHIRT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9984840666"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645669f92c901e8cb23550e2"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "RAJESH ",
+  "price": 1000,
+  "product_name": "T-SHIRT",
+  "product_category": "T-SHIRT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9984840666"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64566edbe2d68129a2260e18"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "VIKASH",
+  "price": 1000,
+  "product_name": "LAST BAL",
+  "product_category": "LAST BAL",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645674eb3e13ebd405414e6a"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sarthak mishra",
+  "price": 1200,
+  "quantity": 37,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbba",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "95547846119"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645674eb3e13ebd405414e69"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "sarthak mishra",
+  "price": 1500,
+  "quantity": 6,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbb8",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "95547846119"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6456799a3e13ebd405414e87"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anoop yadav",
+  "price": 1200,
+  "product_name": "shoes",
+  "product_category": "shoes",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8299327919"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6456799a3e13ebd405414e86"
+  },
+  "date": "5/6/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anoop yadav",
+  "price": 7485,
+  "quantity": 6,
+  "product_name": "VEERA MHARA",
+  "product_category": "VMK/P/W",
+  "barcode_id": "ec3de7f99ac0",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8299327919"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64577072273b645b8730b481"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "LUV GUPTA ",
+  "price": 7000,
+  "product_name": "BACK PAYMENT",
+  "product_category": "BACK PAYMENT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7800209494"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64578cc3511f9c47282009a3"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "RONAK",
+  "price": 3650,
+  "product_name": "LAST BAL",
+  "product_category": "LAST BAL",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9935428630"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645797e102654819dd59f30f"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "ALOK SINGH ",
+  "price": 600,
+  "product_name": "t-shirt xl size",
+  "product_category": "t-shirt xl size",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a09902654819dd59f362"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "satvinder singh",
+  "price": 800,
+  "quantity": 12,
+  "product_name": "CRABGRASSS",
+  "product_category": "T-SHIRT",
+  "barcode_id": "46b23cbfeed8",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9839945154"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a1c102654819dd59f374"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh ",
+  "price": 1200,
+  "quantity": 35,
+  "product_name": "crabgarsss",
+  "product_category": "jeans",
+  "barcode_id": "0b734f61fbba",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7068774937"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a1c102654819dd59f376"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh ",
+  "price": 1400,
+  "quantity": 12,
+  "product_name": "crabgarsss",
+  "product_category": "chinos",
+  "barcode_id": "1580a302ada1",
+  "item": 2,
+  "customer_contact": {
+    "$numberLong": "7068774937"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a1c102654819dd59f377"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh ",
+  "price": 600,
+  "product_name": "RN-T-SHIRT XL",
+  "product_category": "RN-T-SHIRT XL",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7068774937"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a1c102654819dd59f375"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "saurabh ",
+  "price": 1000,
+  "quantity": 54,
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "barcode_id": "f58ff8722000",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7068774937"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a63202654819dd59f3a6"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "PRADEEP KUMAR",
+  "price": 1200,
+  "product_name": "T- SHIRT",
+  "product_category": "T- SHIRT",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8859311890"
+  },
+  "salesManName": "gauri ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457aaf502654819dd59f3ce"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "pradeep",
+  "price": 800,
+  "quantity": 11,
+  "product_name": "CRABGRASSS",
+  "product_category": "T-SHIRT",
+  "barcode_id": "46b23cbfeed8",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9919262035"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457b47902654819dd59f47e"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anmol bajpai",
+  "price": 2799,
+  "quantity": 7,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "9052e4803309",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9151705078"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457b47902654819dd59f47d"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anmol bajpai",
+  "price": 9799,
+  "quantity": 6,
+  "product_name": "virajmaan",
+  "product_category": "5 pcs. suit",
+  "barcode_id": "158102b123d9",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9151705078"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457b4c902654819dd59f484"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anmol bajpai",
+  "price": 2799,
+  "quantity": 6,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "9052e4803309",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9151705078"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457b4c902654819dd59f485"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "anmol bajpai",
+  "price": 9799,
+  "quantity": 5,
+  "product_name": "virajmaan",
+  "product_category": "5 pcs. suit",
+  "barcode_id": "158102b123d9",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9151705078"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c25102654819dd59f500"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vikash arora",
+  "price": 14098,
+  "product_name": "last bal",
+  "product_category": "last bal",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c25502654819dd59f505"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 31,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c25502654819dd59f506"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c2e702654819dd59f516"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 3,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c3bd02654819dd59f51e"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 36,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 4,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c62802654819dd59f529"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "krishna agarwal",
+  "price": 3000,
+  "quantity": 10,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "2ae339cb1392",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9555142473"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c62802654819dd59f52a"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "krishna agarwal",
+  "price": 2995,
+  "quantity": 5,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "01e57344c73e",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9555142473"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c62802654819dd59f52b"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "krishna agarwal",
+  "price": 3885,
+  "quantity": 7,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "82c4d8ec9119",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9555142473"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c67d02654819dd59f538"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "krishna agarwal",
+  "price": 3885,
+  "quantity": 6,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "82c4d8ec9119",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9555142473"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c67d02654819dd59f537"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "krishna agarwal",
+  "price": 3000,
+  "quantity": 9,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "2ae339cb1392",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9555142473"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c67d02654819dd59f536"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "krishna agarwal",
+  "price": 2995,
+  "quantity": 4,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "01e57344c73e",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9555142473"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c82d02654819dd59f545"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 32,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 3,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c97002654819dd59f554"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 29,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c97002654819dd59f555"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c9e802654819dd59f55c"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 28,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c9e802654819dd59f55d"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457ca6702654819dd59f567"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457ca6702654819dd59f566"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457cd6202654819dd59f573"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457cd6202654819dd59f572"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 38,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457cea802654819dd59f57e"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457cea802654819dd59f57f"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457cfc002654819dd59f599"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 38,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 3,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d07002654819dd59f5a4"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "varun kesarwani",
+  "price": 1500,
+  "quantity": 7,
+  "product_name": "crabgrasss",
+  "product_category": "formal trouser",
+  "barcode_id": "1982e1060079",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7800363498"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d07002654819dd59f5a3"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "varun kesarwani",
+  "price": 2799,
+  "quantity": 5,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "82c4d8ec9112",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7800363498"
+  },
+  "salesManName": "sahil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d07702654819dd59f5a9"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 35,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d07702654819dd59f5aa"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d15902654819dd59f5b5"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 34,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d15902654819dd59f5b6"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d1e902654819dd59f5d2"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d1e902654819dd59f5d1"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 33,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d27902654819dd59f5e6"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d27902654819dd59f5e5"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 32,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d2d102654819dd59f5f0"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d2d102654819dd59f5ef"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 31,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d32902654819dd59f5f9"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d32902654819dd59f5fa"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d39602654819dd59f600"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "yash porwal",
+  "price": 1500,
+  "quantity": 16,
+  "product_name": "CRABGRASSS",
+  "product_category": "SHOES",
+  "barcode_id": "ba85033900b3",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8368728333"
+  },
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d39602654819dd59f5ff"
+  },
+  "date": "5/7/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "yash porwal",
+  "price": 2799,
+  "quantity": 7,
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "barcode_id": "c1c8568dcbdc",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8368728333"
+  },
+  "salesManName": "JOGENDRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458720216c79b48a56b605d"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458720216c79b48a56b605c"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458727a16c79b48a56b6068"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 38,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458727a16c79b48a56b6069"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645876feb10ef899fa31f41b"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645876feb10ef899fa31f41c"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587762b10ef899fa31f423"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587762b10ef899fa31f424"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645877f6b10ef899fa31f434"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 38,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645877f6b10ef899fa31f435"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645879e7b10ef899fa31f445"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645879e7b10ef899fa31f444"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 37,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587b1ab10ef899fa31f453"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587b1ab10ef899fa31f452"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587b64b10ef899fa31f45d"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587b64b10ef899fa31f45c"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587bcab10ef899fa31f468"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587bcab10ef899fa31f469"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587d47b10ef899fa31f475"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587d47b10ef899fa31f474"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587e5bb10ef899fa31f480"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 38,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587e5bb10ef899fa31f481"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587f79b10ef899fa31f48b"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 37,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587fb1b10ef899fa31f493"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 35,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587fb1b10ef899fa31f494"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587fe5b10ef899fa31f49e"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587fe5b10ef899fa31f49d"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 34,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64588024b10ef899fa31f4a9"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 33,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64588024b10ef899fa31f4aa"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645880e0b10ef899fa31f4b4"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64588244b10ef899fa31f4bd"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 37,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458827eb10ef899fa31f4c4"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 35,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 2,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458832eb10ef899fa31f4ce"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458832eb10ef899fa31f4cd"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 33,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645883cab10ef899fa31f4db"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645883cab10ef899fa31f4da"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 32,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64588634b10ef899fa31f4e9"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 40,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64588634b10ef899fa31f4e8"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 31,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458a41997c55b0d7daa2746"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 39,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 3,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458a57297c55b0d7daa2751"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "",
+  "price": 500,
+  "quantity": 36,
+  "product_name": "Testing",
+  "product_category": "testing",
+  "barcode_id": "3d7140278ddb",
+  "item": 5,
+  "customer_contact": null,
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458c2d1fe5f679c6a28cf32"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "Ashish",
+  "price": 9799,
+  "quantity": 5,
+  "product_name": "virajmaan",
+  "product_category": "5 pcs. suit",
+  "barcode_id": "158102b123d7",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9621820709"
+  },
+  "salesManName": "Mahesh Pandey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458cb144766473cf5f3a8f7"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vaibhav",
+  "price": 1200,
+  "product_name": "shirt",
+  "product_category": "shirt",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8299664757"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458cb144766473cf5f3a8f6"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vaibhav",
+  "price": 1500,
+  "quantity": 25,
+  "product_name": "crabgarsss",
+  "product_category": "formal trouser",
+  "barcode_id": "0b734f61fbc5",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "8299664757"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458cc354766473cf5f3a905"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "vabhav",
+  "price": 100,
+  "product_name": "",
+  "product_category": "shocks",
+  "item": 1,
+  "customer_contact": null,
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458f63af6362a195089bb1d"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "gagan",
+  "price": 1300,
+  "product_name": "JEANS",
+  "product_category": "JEANS",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "9695433337"
+  },
+  "salesManName": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64592364f9bf6ee27df197a8"
+  },
+  "date": "5/8/2023",
+  "biller_name": "Saurabh Tanwane",
+  "customer_name": "VARUN KESARWANI",
+  "price": 1399,
+  "quantity": 4,
+  "product_name": "CRABGRASSS",
+  "product_category": "CHINOUS",
+  "barcode_id": "c2ddea89e954",
+  "item": 1,
+  "customer_contact": {
+    "$numberLong": "7800363498"
+  },
+  "salesManName": "Rohit KUMAR",
+  "__v": 0
+}]

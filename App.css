@@ -1,0 +1,14 @@
+
+#root{
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.body-scroll{
+  height: calc(100vh - 50px);
+    overflow-y: auto;
+}
+.body-scroll .w-full{
+  /* height: 100vh; */
+}

@@ -1,0 +1,3347 @@
+[{
+  "_id": {
+    "$oid": "642eb9db7a2782c4d8ec90fb"
+  },
+  "date": "4/6/2023",
+  "customer_name": "wadtyio",
+  "customer_contact": "845874",
+  "items": 2,
+  "totalAmount": 4000,
+  "pay_price": 2000,
+  "due_price": 2000,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642ff6b8eadd0a9a35019da6"
+  },
+  "date": "4/7/2023",
+  "customer_name": "sunny7860078650",
+  "customer_contact": "7860078650",
+  "items": 2,
+  "totalAmount": 2000,
+  "pay_price": null,
+  "due_price": 2000,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64317c102855f3c6c5f6408e"
+  },
+  "date": "4/8/2023",
+  "customer_name": "KARTIK",
+  "customer_contact": "9651566566",
+  "items": 1,
+  "totalAmount": 1500,
+  "pay_price": 1500,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643268f47d9800bfd5f1316f"
+  },
+  "date": "4/9/2023",
+  "customer_name": "walking cust",
+  "customer_contact": "0000000000",
+  "items": 2,
+  "totalAmount": 1600,
+  "pay_price": 1600,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64327a318328f93641013d2a"
+  },
+  "date": "4/9/2023",
+  "customer_name": "ravi singh",
+  "customer_contact": "9044817789",
+  "items": 3,
+  "totalAmount": 3000,
+  "pay_price": 3000,
+  "due_price": 0,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64327c7b8328f93641013d33"
+  },
+  "date": "4/9/2023",
+  "customer_name": "bhjujjh",
+  "customer_contact": "322114445",
+  "items": 1,
+  "totalAmount": 12000,
+  "pay_price": 12000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432a69d5ab1acacc9c52e6b"
+  },
+  "date": "4/9/2023",
+  "customer_name": "mam",
+  "customer_contact": "15212",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b0e5c4db069eb2d42d4e"
+  },
+  "date": "4/9/2023",
+  "customer_name": "yash gupta",
+  "customer_contact": "8318816823",
+  "items": 1,
+  "totalAmount": 14500,
+  "pay_price": 4000,
+  "due_price": 10500,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432bb9794e1b420785ea6d1"
+  },
+  "date": "4/9/2023",
+  "customer_name": "prashant",
+  "customer_contact": "9643135964",
+  "items": 1,
+  "totalAmount": 800,
+  "pay_price": 800,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dc3892d46e8a09afab76"
+  },
+  "date": "4/9/2023",
+  "customer_name": "manas",
+  "customer_contact": "9795248888",
+  "items": 2,
+  "totalAmount": 1800,
+  "pay_price": 1800,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433c6c5eb69402822ac317e"
+  },
+  "date": "4/10/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": null,
+  "totalAmount": null,
+  "pay_price": 2000,
+  "due_price": null,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433da4b634e43de66015d28"
+  },
+  "date": "4/10/2023",
+  "customer_name": "anurag",
+  "customer_contact": "9140072393",
+  "items": 2,
+  "totalAmount": 11850,
+  "pay_price": 5000,
+  "due_price": 6850,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433ee06c79d7661a796f183"
+  },
+  "date": "4/10/2023",
+  "customer_name": "shufayana akther",
+  "customer_contact": "6392395251",
+  "items": 2,
+  "totalAmount": 2200,
+  "pay_price": 2200,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643402b55dd62ad6cb8c53cb"
+  },
+  "date": "4/10/2023",
+  "customer_name": "jhvgh",
+  "customer_contact": "123",
+  "items": 2,
+  "totalAmount": 2000,
+  "pay_price": 2000,
+  "due_price": 0,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6434079174da6467cf3a731d"
+  },
+  "date": "4/10/2023",
+  "customer_name": "rishab",
+  "customer_contact": "7065887299",
+  "items": 1,
+  "totalAmount": 700,
+  "pay_price": 700,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6434368fb53bac3337323399"
+  },
+  "date": "4/10/2023",
+  "customer_name": "apoorav",
+  "customer_contact": "9810724099",
+  "items": 4,
+  "totalAmount": 3600,
+  "pay_price": 3600,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643436d4b53bac33373233a3"
+  },
+  "date": "4/10/2023",
+  "customer_name": "apoorav",
+  "customer_contact": "",
+  "items": 4,
+  "totalAmount": 3600,
+  "pay_price": 3420,
+  "due_price": 180,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64343befb53bac33373233de"
+  },
+  "date": "4/10/2023",
+  "customer_name": "ali haider",
+  "customer_contact": "9651742519",
+  "items": 1,
+  "totalAmount": 5500,
+  "pay_price": 5500,
+  "due_price": 0,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64353bdd2583864873317c5d"
+  },
+  "date": "4/11/2023",
+  "customer_name": "utkarsh",
+  "customer_contact": "7275014014",
+  "items": 1,
+  "totalAmount": 3590,
+  "pay_price": 3590,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435903809f3597777991c7a"
+  },
+  "date": "4/11/2023",
+  "customer_name": "manjot singh",
+  "customer_contact": "7310477477",
+  "items": 1,
+  "totalAmount": 8499,
+  "pay_price": 8499,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435911109f3597777991c86"
+  },
+  "date": "4/11/2023",
+  "customer_name": "manjot singh",
+  "customer_contact": "7310477477",
+  "items": 1,
+  "totalAmount": 2660,
+  "pay_price": 2660,
+  "due_price": 0,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64368e8710598c321e839ab2"
+  },
+  "date": "4/12/2023",
+  "customer_name": "aanchal dewedi",
+  "customer_contact": "9005804905",
+  "items": 2,
+  "totalAmount": 2000,
+  "pay_price": 2000,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64369c1ba96b306c04d0d7ff"
+  },
+  "date": "4/12/2023",
+  "customer_name": "jaspreet",
+  "customer_contact": "9936403271",
+  "items": 1,
+  "totalAmount": 800,
+  "pay_price": 800,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436db3b201202451ed89f0c"
+  },
+  "date": "4/12/2023",
+  "customer_name": "ashish dawrani",
+  "customer_contact": "8896179527",
+  "items": 3,
+  "totalAmount": 3400,
+  "pay_price": 3400,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436dd1b201202451ed89f16"
+  },
+  "date": "4/12/2023",
+  "customer_name": "sumit",
+  "customer_contact": "9335055054",
+  "items": 1,
+  "totalAmount": 4500,
+  "pay_price": 2000,
+  "due_price": 2500,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437ed24a23e45fab22c4e3a"
+  },
+  "date": "4/13/2023",
+  "customer_name": "manish",
+  "customer_contact": "8488857742",
+  "items": 2,
+  "totalAmount": 2300,
+  "pay_price": 2300,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437fe3216b4b1d6db79b11d"
+  },
+  "date": "4/13/2023",
+  "customer_name": "daljeet singh",
+  "customer_contact": "7619899882",
+  "items": 3,
+  "totalAmount": 4300,
+  "pay_price": null,
+  "due_price": 4300,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64380838f53d80c83b7d7a2a"
+  },
+  "date": "4/13/2023",
+  "customer_name": "ADITYA",
+  "customer_contact": "8004519957",
+  "items": 2,
+  "totalAmount": 7299,
+  "pay_price": 5000,
+  "due_price": 2299,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643808e3f53d80c83b7d7a34"
+  },
+  "date": "4/13/2023",
+  "customer_name": "DHUSHIT KAUR",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 2400,
+  "pay_price": 2400,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64380f61f53d80c83b7d7a4b"
+  },
+  "date": "4/13/2023",
+  "customer_name": "Hrasimran",
+  "customer_contact": "7007352954",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f8ce37c6004c4898c011"
+  },
+  "date": "4/14/2023",
+  "customer_name": "shubham",
+  "customer_contact": "7838208484",
+  "items": 3,
+  "totalAmount": 3600,
+  "pay_price": 3600,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64393f53db9cd41344e11b8d"
+  },
+  "date": "4/14/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 3885,
+  "pay_price": 3885,
+  "due_price": 0,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6439402fdb9cd41344e11b9a"
+  },
+  "date": "4/14/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 8000,
+  "pay_price": 4000,
+  "due_price": 4000,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6439765466edc12f82326c0e"
+  },
+  "date": "4/14/2023",
+  "customer_name": "VISHASH",
+  "customer_contact": "9695267227",
+  "items": 1,
+  "totalAmount": 1500,
+  "pay_price": 1500,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a45f3375f2a94768313f5"
+  },
+  "date": "4/15/2023",
+  "customer_name": "shyam pratap",
+  "customer_contact": "9719872560",
+  "items": 1,
+  "totalAmount": 3550,
+  "pay_price": 3550,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a4859375f2a94768313ff"
+  },
+  "date": "4/15/2023",
+  "customer_name": "baiju panday",
+  "customer_contact": "8687256515",
+  "items": 2,
+  "totalAmount": 2500,
+  "pay_price": 2500,
+  "due_price": 0,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a6100d534044b9486e85e"
+  },
+  "date": "4/15/2023",
+  "customer_name": "SHUBH",
+  "customer_contact": "8299460297",
+  "items": 1,
+  "totalAmount": 5500,
+  "pay_price": 5500,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a8fef53c5e18716ac865c"
+  },
+  "date": "4/15/2023",
+  "customer_name": "RANI",
+  "customer_contact": "7068942152",
+  "items": 4,
+  "totalAmount": 3200,
+  "pay_price": 3200,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643aaab11f68d6398a9406ba"
+  },
+  "date": "4/15/2023",
+  "customer_name": "HARSHIT",
+  "customer_contact": "9044142140",
+  "items": 4,
+  "totalAmount": 4700,
+  "pay_price": 4700,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ab9471923232ddab1eae1"
+  },
+  "date": "4/15/2023",
+  "customer_name": "hemant bhatiya",
+  "customer_contact": "9792444496",
+  "items": 2,
+  "totalAmount": 2600,
+  "pay_price": 2600,
+  "due_price": 0,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643bbe8aa81c5a6be433bcb1"
+  },
+  "date": "4/16/2023",
+  "customer_name": "rahul tripathy",
+  "customer_contact": "7860168485",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "online",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643c14192e542de406c158d4"
+  },
+  "date": "4/16/2023",
+  "customer_name": "VIJIT GUPTA",
+  "customer_contact": "8081645424",
+  "items": 3,
+  "totalAmount": 8100,
+  "pay_price": 5000,
+  "due_price": 3100,
+  "payment_mode": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ce7932e693d7140278e30"
+  },
+  "date": "4/17/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 950,
+  "pay_price": 400,
+  "due_price": 0,
+  "payment_mode": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cf38998845c444dcee337"
+  },
+  "date": "4/17/2023",
+  "customer_name": "gaurav",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 2400,
+  "pay_price": 2400,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cf3c798845c444dcee341"
+  },
+  "date": "4/17/2023",
+  "customer_name": "ramkant",
+  "customer_contact": "9415710357",
+  "items": 1,
+  "totalAmount": 600,
+  "pay_price": 600,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d0deb778e36bb22ce86de"
+  },
+  "date": "4/17/2023",
+  "customer_name": "vivek agrwal",
+  "customer_contact": "6390420584",
+  "items": 1,
+  "totalAmount": 4500,
+  "pay_price": 4500,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d0e99778e36bb22ce86e5"
+  },
+  "date": "4/17/2023",
+  "customer_name": "sanjay agrwal",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 800,
+  "pay_price": 800,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d2901356d40708b56f8ee"
+  },
+  "date": "4/17/2023",
+  "customer_name": "nitin ",
+  "customer_contact": "9956364699",
+  "items": 2,
+  "totalAmount": 2700,
+  "pay_price": 2600,
+  "due_price": 100,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643e9523e74fd4c1196166b4"
+  },
+  "date": "4/18/2023",
+  "customer_name": "DALJEET SINGH",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 570,
+  "pay_price": 570,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ec2abfd26fa200e38ac83"
+  },
+  "date": "4/18/2023",
+  "customer_name": "vivek agarwal",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1800,
+  "pay_price": 1800,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ec42dfd26fa200e38ac8c"
+  },
+  "date": "4/18/2023",
+  "customer_name": "vivek",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1800,
+  "pay_price": 1800,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643fbe2d99326352aea43023"
+  },
+  "date": "4/19/2023",
+  "customer_name": "anurag",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 5000,
+  "pay_price": 5000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643fdd15721acaa748ccde07"
+  },
+  "date": "4/19/2023",
+  "customer_name": "vinod keshri",
+  "customer_contact": "8318127246",
+  "items": 2,
+  "totalAmount": 10640,
+  "pay_price": 10640,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643fe481e6644117b783aff4"
+  },
+  "date": "4/19/2023",
+  "customer_name": "vinod keshari",
+  "customer_contact": "8318127246",
+  "items": 1,
+  "totalAmount": 3325,
+  "pay_price": 3325,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64400a1a4a7a5f738be51f56"
+  },
+  "date": "4/19/2023",
+  "customer_name": "UTKARSH",
+  "customer_contact": "8188814466",
+  "items": 4,
+  "totalAmount": 5000,
+  "pay_price": 5000,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6440da7ead4c9f95e744ba52"
+  },
+  "date": "4/20/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 3,
+  "totalAmount": 1200,
+  "pay_price": 1,
+  "due_price": 1199,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6440dfbcad4c9f95e744ba8f"
+  },
+  "date": "4/20/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 400,
+  "pay_price": 11,
+  "due_price": 389,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64411fb2cc344af03c345e73"
+  },
+  "date": "4/20/2023",
+  "customer_name": "manu",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 2200,
+  "pay_price": 2200,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6442365cb31260278ba72ecd"
+  },
+  "date": "4/21/2023",
+  "customer_name": "RONAK",
+  "customer_contact": "9935424630",
+  "items": 1,
+  "totalAmount": 6650,
+  "pay_price": 3000,
+  "due_price": 3650,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644247b7bd716b7cc84f3f9d"
+  },
+  "date": "4/21/2023",
+  "customer_name": "MANISH DYAL",
+  "customer_contact": "9839069128",
+  "items": 2,
+  "totalAmount": 2300,
+  "pay_price": 2300,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6442751346ddc7c01611051a"
+  },
+  "date": "4/21/2023",
+  "customer_name": "ashwani gupta",
+  "customer_contact": "9935490105",
+  "items": 3,
+  "totalAmount": 3500,
+  "pay_price": 3500,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64427efc46ddc7c016110588"
+  },
+  "date": "4/21/2023",
+  "customer_name": "satanm singh",
+  "customer_contact": "9838885300",
+  "items": 1,
+  "totalAmount": 1200,
+  "pay_price": 1200,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64429a061aa590dab57a44de"
+  },
+  "date": "4/21/2023",
+  "customer_name": "abhishek",
+  "customer_contact": "9696303081",
+  "items": 1,
+  "totalAmount": 2799,
+  "pay_price": 2799,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443c7da8ff5434068b8a135"
+  },
+  "date": "4/22/2023",
+  "customer_name": "LUV GUPTA",
+  "customer_contact": "7800209494",
+  "items": 3,
+  "totalAmount": 18000,
+  "pay_price": 10000,
+  "due_price": 8000,
+  "payment_mode": "cash",
+  "discountPer": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443c8328ff5434068b8a13f"
+  },
+  "date": "4/22/2023",
+  "customer_name": "rahul gupta",
+  "customer_contact": "9956039024",
+  "items": 2,
+  "totalAmount": 2200,
+  "pay_price": 2200,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443efe13adf6d28e951b95d"
+  },
+  "date": "4/22/2023",
+  "customer_name": "hemannt",
+  "customer_contact": "9044321034",
+  "items": 1,
+  "totalAmount": 7600,
+  "pay_price": 7600,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443fe9208a8bf3d77c065b0"
+  },
+  "date": "4/22/2023",
+  "customer_name": "dipesh",
+  "customer_contact": "9005292929",
+  "items": 1,
+  "totalAmount": 2799,
+  "pay_price": 1500,
+  "due_price": 1299,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444076e71a5e19cffe3f0fa"
+  },
+  "date": "4/22/2023",
+  "customer_name": "rajat gupta",
+  "customer_contact": "9839982917",
+  "items": 2,
+  "totalAmount": 2200,
+  "pay_price": 2200,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444e8aad756d9b2e3270457"
+  },
+  "date": "4/23/2023",
+  "customer_name": "arif",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 3350,
+  "pay_price": 2500,
+  "due_price": 850,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444f0dca940852e0c9863f5"
+  },
+  "date": "4/23/2023",
+  "customer_name": "sumit",
+  "customer_contact": "9335055054",
+  "items": 1,
+  "totalAmount": 2500,
+  "pay_price": 2500,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444f13fa940852e0c9863fc"
+  },
+  "date": "4/23/2023",
+  "customer_name": "sourav kumar",
+  "customer_contact": "9569732464",
+  "items": 1,
+  "totalAmount": 3500,
+  "pay_price": 3500,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444f40ea940852e0c986409"
+  },
+  "date": "4/23/2023",
+  "customer_name": "ankur",
+  "customer_contact": "9450136188",
+  "items": 2,
+  "totalAmount": 10450,
+  "pay_price": 10450,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644521f40028c9ac17a4ced7"
+  },
+  "date": "4/23/2023",
+  "customer_name": "ashish",
+  "customer_contact": "8303312700",
+  "items": 1,
+  "totalAmount": 9309.05,
+  "pay_price": 9309,
+  "due_price": 0.049999999999272404,
+  "payment_mode": "online",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644536f0485e61307445ee17"
+  },
+  "date": "4/23/2023",
+  "customer_name": "ananay arrora",
+  "customer_contact": "7985215665",
+  "items": 1,
+  "totalAmount": 2000,
+  "pay_price": 2000,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64463f30ca9fb6ac4b20fda5"
+  },
+  "date": "4/24/2023",
+  "customer_name": "lallo singh",
+  "customer_contact": "9760839537",
+  "items": 6,
+  "totalAmount": 6460,
+  "pay_price": 6460,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644645b1e4f69d0ae7b1041f"
+  },
+  "date": "4/24/2023",
+  "customer_name": "arif",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 850,
+  "pay_price": 850,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644699b121befffa8e52cf44"
+  },
+  "date": "4/24/2023",
+  "customer_name": "SANDEEP",
+  "customer_contact": "",
+  "items": 6,
+  "totalAmount": 7300,
+  "pay_price": 5000,
+  "due_price": 2300,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6446b0fae83fb43afa6785d0"
+  },
+  "date": "4/24/2023",
+  "customer_name": "SHRITHEESH BAJPAAI",
+  "customer_contact": "94153248875",
+  "items": 1,
+  "totalAmount": 11399,
+  "pay_price": 6000,
+  "due_price": 5399,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6446b1e2e83fb43afa6785d9"
+  },
+  "date": "4/24/2023",
+  "customer_name": "SHRITHEESH",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 0,
+  "pay_price": null,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447bcb0830acabb233857ca"
+  },
+  "date": "4/25/2023",
+  "customer_name": "pta nahi",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447c6a4ff21ff3a8a0e305c"
+  },
+  "date": "4/25/2023",
+  "customer_name": "yash",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 800,
+  "pay_price": 800,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447cee0270ef2ab4e1a2fb6"
+  },
+  "date": "4/25/2023",
+  "customer_name": "saurabh ji ",
+  "customer_contact": "8090937120",
+  "items": 1,
+  "totalAmount": 6220,
+  "pay_price": 2000,
+  "due_price": 4220,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447f155203159a6a0709e43"
+  },
+  "date": "4/25/2023",
+  "customer_name": "Rajat",
+  "customer_contact": "9718170411",
+  "items": 1,
+  "totalAmount": 10568,
+  "pay_price": 10568,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644800e98a7c38b5c6241e97"
+  },
+  "date": "4/25/2023",
+  "customer_name": "harash",
+  "customer_contact": "9026844839",
+  "items": 4,
+  "totalAmount": 15305.865,
+  "pay_price": 15305,
+  "due_price": 0.8649999999997817,
+  "payment_mode": "online",
+  "discountPer": 1.57,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448a06e476e14779703029e"
+  },
+  "date": "4/26/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1200,
+  "pay_price": 400,
+  "due_price": 800,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64491e331e6ff2963e90c288"
+  },
+  "date": "4/26/2023",
+  "customer_name": "VIVEK",
+  "customer_contact": "9696967777",
+  "items": 3,
+  "totalAmount": 21000,
+  "pay_price": 10000,
+  "due_price": 11000,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64491f791e6ff2963e90c298"
+  },
+  "date": "4/26/2023",
+  "customer_name": "ASHUTOSH JI",
+  "customer_contact": "8077983821",
+  "items": 4,
+  "totalAmount": 21984,
+  "pay_price": 4000,
+  "due_price": 17984,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644920691e6ff2963e90c2a2"
+  },
+  "date": "4/26/2023",
+  "customer_name": "KANCHAN GUPTA",
+  "customer_contact": "9794861902",
+  "items": 2,
+  "totalAmount": 3995,
+  "pay_price": 3995,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449225e1e6ff2963e90c2b2"
+  },
+  "date": "4/26/2023",
+  "customer_name": "PRAKAR JI",
+  "customer_contact": "8527946679",
+  "items": 4,
+  "totalAmount": 19229.6286,
+  "pay_price": 15000,
+  "due_price": 4229.6286,
+  "payment_mode": "online",
+  "discountPer": 8.86,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64492c2c9b37268f1a211cf5"
+  },
+  "date": "26/4/2023",
+  "customer_name": "shubh",
+  "customer_contact": "8299460297",
+  "items": 1,
+  "totalAmount": 600,
+  "pay_price": 550,
+  "due_price": 50,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64492efa9b37268f1a211d20"
+  },
+  "date": "26/4/2023",
+  "customer_name": "romal",
+  "customer_contact": "9866111117",
+  "items": 2,
+  "totalAmount": 2700,
+  "pay_price": 2700,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644931ff9b37268f1a211d29"
+  },
+  "date": "26/4/2023",
+  "customer_name": "abhishek",
+  "customer_contact": "",
+  "items": null,
+  "totalAmount": null,
+  "pay_price": 1200,
+  "due_price": null,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644959661cc1016e856a7d67"
+  },
+  "date": "4/26/2023",
+  "customer_name": "varun",
+  "customer_contact": "9275111000",
+  "items": 1,
+  "totalAmount": 2375,
+  "pay_price": 2200,
+  "due_price": 175,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a4c2a8ec8df60bca0f80b"
+  },
+  "date": "4/27/2023",
+  "customer_name": "vikash arora",
+  "customer_contact": "7290948010",
+  "items": 4,
+  "totalAmount": 11098,
+  "pay_price": 6000,
+  "due_price": 5098,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a4ec88ec8df60bca0f858"
+  },
+  "date": "4/27/2023",
+  "customer_name": "arif bhai",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 5400,
+  "pay_price": 5400,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a83667a226ab05ab628e9"
+  },
+  "date": "4/27/2023",
+  "customer_name": "mayur",
+  "customer_contact": "9651004626",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a95ccc69f751f72fa7664"
+  },
+  "date": "4/27/2023",
+  "customer_name": "gagan",
+  "customer_contact": "9889899655",
+  "items": 4,
+  "totalAmount": 6885,
+  "pay_price": 6885,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644a964cc69f751f72fa766e"
+  },
+  "date": "4/27/2023",
+  "customer_name": "gagan",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 2400,
+  "pay_price": 1500,
+  "due_price": 900,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644aa4a9a44c06e072a05c77"
+  },
+  "date": "4/27/2023",
+  "customer_name": "depash ",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1300,
+  "pay_price": 1300,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b7a3477270c349e79b1a4"
+  },
+  "date": "4/28/2023",
+  "customer_name": "ashwani",
+  "customer_contact": "9680623567",
+  "items": 5,
+  "totalAmount": 4275,
+  "pay_price": 4275,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b96c3927fb99f571c9c4f"
+  },
+  "date": "4/28/2023",
+  "customer_name": "sunny",
+  "customer_contact": "8604376376",
+  "items": 1,
+  "totalAmount": 2300,
+  "pay_price": 2300,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b98a1927fb99f571c9c78"
+  },
+  "date": "4/28/2023",
+  "customer_name": "kamaldeep singh",
+  "customer_contact": "8081351384",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bb0053da25556c21f91dc"
+  },
+  "date": "4/28/2023",
+  "customer_name": "arpit",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 2600,
+  "pay_price": 2600,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bca7aff79d68dc7649e64"
+  },
+  "date": "4/28/2023",
+  "customer_name": "vishal dixit",
+  "customer_contact": "9552559055",
+  "items": 1,
+  "totalAmount": 16734,
+  "pay_price": 16734,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bcf154b53fe6927a44720"
+  },
+  "date": "4/28/2023",
+  "customer_name": "harjeet",
+  "customer_contact": "9839559440",
+  "items": 1,
+  "totalAmount": 1200,
+  "pay_price": 1200,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bd5c71adc34daa165f5a2"
+  },
+  "date": "4/28/2023",
+  "customer_name": "shrithesh bajpai",
+  "customer_contact": "9415324875",
+  "items": 1,
+  "totalAmount": 5399,
+  "pay_price": 5399,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bdcbd92b38fe0ae2a77b4"
+  },
+  "date": "4/28/2023",
+  "customer_name": "aditya ",
+  "customer_contact": "8004519957",
+  "items": 1,
+  "totalAmount": 1701.792,
+  "pay_price": 1700,
+  "due_price": 1.7919999999999163,
+  "payment_mode": "cash",
+  "discountPer": 39.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bdec892b38fe0ae2a77c0"
+  },
+  "date": "4/28/2023",
+  "customer_name": "aditya",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 11300,
+  "pay_price": 11300,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bed14cdba013739194e87"
+  },
+  "date": "4/28/2023",
+  "customer_name": "sumit mishra",
+  "customer_contact": "00000000",
+  "items": 1,
+  "totalAmount": 1425,
+  "pay_price": 1425,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bef82cdba013739194e94"
+  },
+  "date": "4/28/2023",
+  "customer_name": "manpreet singh",
+  "customer_contact": "9506622220",
+  "items": 1,
+  "totalAmount": 1200,
+  "pay_price": 1200,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bf9c3abaf8755d78313fc"
+  },
+  "date": "4/28/2023",
+  "customer_name": "dhrmesh ji",
+  "customer_contact": "01051021",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bfbccabaf8755d7831403"
+  },
+  "date": "4/28/2023",
+  "customer_name": "gagan",
+  "customer_contact": "1480452",
+  "items": 1,
+  "totalAmount": 900,
+  "pay_price": 900,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bfc03abaf8755d783140a"
+  },
+  "date": "4/28/2023",
+  "customer_name": "saddam",
+  "customer_contact": "9621867436",
+  "items": 1,
+  "totalAmount": 1500,
+  "pay_price": 1500,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644bfe77abaf8755d7831417"
+  },
+  "date": "4/28/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1600,
+  "pay_price": 1600,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644c0510abaf8755d783142c"
+  },
+  "date": "4/28/2023",
+  "customer_name": "Arif friend",
+  "customer_contact": "",
+  "items": 4,
+  "totalAmount": 3610,
+  "pay_price": 3610,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644ce62abc35f8c2085d3220"
+  },
+  "date": "4/29/2023",
+  "customer_name": "DERAND KUMAR",
+  "customer_contact": "9650178381",
+  "items": 4,
+  "totalAmount": 5320,
+  "pay_price": 5320,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644cfdd086a09baefccbcc3f"
+  },
+  "date": "4/29/2023",
+  "customer_name": "ashutosh",
+  "customer_contact": "8077982321",
+  "items": 2,
+  "totalAmount": 17535,
+  "pay_price": 17535,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644d0ce886a09baefccbcc86"
+  },
+  "date": "4/29/2023",
+  "customer_name": "sarbjeet singh",
+  "customer_contact": "9793494949",
+  "items": 2,
+  "totalAmount": 7866,
+  "pay_price": 7866,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e2b6f97405d3d377fb5ee"
+  },
+  "date": "4/30/2023",
+  "customer_name": "mayank mishra ",
+  "customer_contact": "7752826687",
+  "items": 1,
+  "totalAmount": 1400,
+  "pay_price": 1400,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e331815752a047320728b"
+  },
+  "date": "4/30/2023",
+  "customer_name": "deepak",
+  "customer_contact": "9670252972",
+  "items": 1,
+  "totalAmount": 2800,
+  "pay_price": 2800,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e3ac25b3a35d7e52beaa5"
+  },
+  "date": "4/30/2023",
+  "customer_name": "satyam",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 5000,
+  "pay_price": 5000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e3ba55b3a35d7e52beab6"
+  },
+  "date": "4/30/2023",
+  "customer_name": "guru ji",
+  "customer_contact": "000001",
+  "items": 1,
+  "totalAmount": 1650,
+  "pay_price": 1650,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e68eba4d8edf98ab90114"
+  },
+  "date": "4/30/2023",
+  "customer_name": "dhermander",
+  "customer_contact": "9235843399",
+  "items": 5,
+  "totalAmount": 3100,
+  "pay_price": 3100,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e817e7029e755f0d7dca2"
+  },
+  "date": "4/30/2023",
+  "customer_name": "Rishav gupta",
+  "customer_contact": "8960307171",
+  "items": 3,
+  "totalAmount": 8317.25,
+  "pay_price": 8317,
+  "due_price": 0.25,
+  "payment_mode": "paytm",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e82877029e755f0d7dcb5"
+  },
+  "date": "4/30/2023",
+  "customer_name": "vijit gupta",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 2200,
+  "pay_price": 2200,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e82f37029e755f0d7dcbf"
+  },
+  "date": "4/30/2023",
+  "customer_name": "saurabh paul",
+  "customer_contact": "9565444937",
+  "items": 1,
+  "totalAmount": 15014.4,
+  "pay_price": 15014,
+  "due_price": 0.3999999999996362,
+  "payment_mode": "cash",
+  "discountPer": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e840b7029e755f0d7dcca"
+  },
+  "date": "4/30/2023",
+  "customer_name": "saurabh paul",
+  "customer_contact": "9565444937",
+  "items": 1,
+  "totalAmount": 1500,
+  "pay_price": 1500,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e85707029e755f0d7dce6"
+  },
+  "date": "4/30/2023",
+  "customer_name": "raja khan",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e8da67029e755f0d7dd19"
+  },
+  "date": "4/30/2023",
+  "customer_name": "vishal dixit",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 8999,
+  "pay_price": 8999,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644f784a226f11f4f516ebda"
+  },
+  "date": "5/1/2023",
+  "customer_name": "vivek",
+  "customer_contact": "9696967777",
+  "items": 1,
+  "totalAmount": 5225,
+  "pay_price": 5000,
+  "due_price": 225,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644f99468cb304b5b7953add"
+  },
+  "date": "5/1/2023",
+  "customer_name": "rajendra singh",
+  "customer_contact": "9919775007",
+  "items": 2,
+  "totalAmount": 2850,
+  "pay_price": 2850,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644f9a4d8cb304b5b7953af1"
+  },
+  "date": "5/1/2023",
+  "customer_name": "rajendra singh",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1140,
+  "pay_price": 1140,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fa8e22d6c55486b9e8bc7"
+  },
+  "date": "5/1/2023",
+  "customer_name": "ashwarya",
+  "customer_contact": "7007610747",
+  "items": 2,
+  "totalAmount": 4195,
+  "pay_price": 4195,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fa9112d6c55486b9e8bce"
+  },
+  "date": "5/1/2023",
+  "customer_name": "ketan",
+  "customer_contact": "9717277677",
+  "items": 1,
+  "totalAmount": 1500,
+  "pay_price": 1500,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644face52d6c55486b9e8bd5"
+  },
+  "date": "5/1/2023",
+  "customer_name": "vicky",
+  "customer_contact": "7905775030",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fd1f2d9d69d282526f7af"
+  },
+  "date": "5/1/2023",
+  "customer_name": "dharmendra  kumar",
+  "customer_contact": "9235843399",
+  "items": 1,
+  "totalAmount": 300,
+  "pay_price": 300,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644fdb407612b27fef8d1f99"
+  },
+  "date": "5/1/2023",
+  "customer_name": "satjeet",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 2500,
+  "pay_price": 2500,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6450dbe27a3243b95a49c4b8"
+  },
+  "date": "5/2/2023",
+  "customer_name": "ashwarya",
+  "customer_contact": "",
+  "items": 3,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6450eb16895e74800c449165"
+  },
+  "date": "5/2/2023",
+  "customer_name": "vivek",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 11000,
+  "pay_price": 11000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64511843178e23e4277a0f69"
+  },
+  "date": "5/2/2023",
+  "customer_name": "anshul juneja",
+  "customer_contact": "9918869359",
+  "items": 2,
+  "totalAmount": 11400,
+  "pay_price": 11400,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6451288b35f245373f856841"
+  },
+  "date": "5/2/2023",
+  "customer_name": "sanskar ",
+  "customer_contact": "8932099990",
+  "items": 2,
+  "totalAmount": 5598,
+  "pay_price": 5598,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64512b7835f245373f856851"
+  },
+  "date": "5/2/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1350,
+  "pay_price": 1350,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64513c0804fff24203b94b00"
+  },
+  "date": "5/2/2023",
+  "customer_name": "tajendra pal singh",
+  "customer_contact": "860110010",
+  "items": 2,
+  "totalAmount": 2000,
+  "pay_price": 2000,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645144d722e77d5fcc299d0e"
+  },
+  "date": "5/2/2023",
+  "customer_name": "dharmendra kumar",
+  "customer_contact": "7905232720",
+  "items": 1,
+  "totalAmount": 1500,
+  "pay_price": 1000,
+  "due_price": 500,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6452332eec0acaf5f17c7279"
+  },
+  "date": "5/3/2023",
+  "customer_name": "krishna tripathi",
+  "customer_contact": "8130499220",
+  "items": 1,
+  "totalAmount": 800,
+  "pay_price": 800,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6452359aec0acaf5f17c72b8"
+  },
+  "date": "5/3/2023",
+  "customer_name": "pawan",
+  "customer_contact": "9956118166",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64523b1bec0acaf5f17c7329"
+  },
+  "date": "5/3/2023",
+  "customer_name": "pawan",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 2995,
+  "pay_price": 2995,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645256b8d726fbc3459e632b"
+  },
+  "date": "5/3/2023",
+  "customer_name": "ashwarya",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1500,
+  "pay_price": 1500,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645265223f52f6dd1e790ac2"
+  },
+  "date": "5/3/2023",
+  "customer_name": "prakhar",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 2500,
+  "pay_price": 2500,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645267a43f52f6dd1e790ad2"
+  },
+  "date": "5/3/2023",
+  "customer_name": "saurabh",
+  "customer_contact": "9569194089",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64526baf1d07db7bdf04520c"
+  },
+  "date": "5/3/2023",
+  "customer_name": "prakhar",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 6500,
+  "pay_price": 6500,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64526f981d07db7bdf045227"
+  },
+  "date": "5/3/2023",
+  "customer_name": "yash gupta ",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 10500,
+  "pay_price": 10500,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645270191d07db7bdf045234"
+  },
+  "date": "5/3/2023",
+  "customer_name": "bhairo singh",
+  "customer_contact": "9369115730",
+  "items": 4,
+  "totalAmount": 4700,
+  "pay_price": 4700,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645277a855c0ee29873e5104"
+  },
+  "date": "5/3/2023",
+  "customer_name": "siddharth",
+  "customer_contact": "9695102384",
+  "items": 1,
+  "totalAmount": 12299,
+  "pay_price": 12299,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64527cce55c0ee29873e5110"
+  },
+  "date": "5/3/2023",
+  "customer_name": "amit",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 2550,
+  "pay_price": 2550,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645351f10e5a1caaad36f7e7"
+  },
+  "date": "5/4/2023",
+  "customer_name": "amandeep shingh",
+  "customer_contact": "9839220170",
+  "items": 4,
+  "totalAmount": 1800,
+  "pay_price": 1800,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453be14474e10ffbfb7b7e8"
+  },
+  "date": "5/4/2023",
+  "customer_name": "sanjay",
+  "customer_contact": "9889802633",
+  "items": 1,
+  "totalAmount": 1500,
+  "pay_price": 1500,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453be7c474e10ffbfb7b7f5"
+  },
+  "date": "5/4/2023",
+  "customer_name": "aryan",
+  "customer_contact": "6390160193",
+  "items": 2,
+  "totalAmount": 5799,
+  "pay_price": 5799,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453bf38474e10ffbfb7b801"
+  },
+  "date": "5/4/2023",
+  "customer_name": "abhishek sriwastav",
+  "customer_contact": "9140341410",
+  "items": 1,
+  "totalAmount": 5500,
+  "pay_price": 5500,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453c297474e10ffbfb7b814"
+  },
+  "date": "5/4/2023",
+  "customer_name": "prakhar",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 100,
+  "pay_price": 100,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6453c39e474e10ffbfb7b823"
+  },
+  "date": "5/4/2023",
+  "customer_name": "rachana gupta",
+  "customer_contact": "8318879010",
+  "items": 2,
+  "totalAmount": 3000,
+  "pay_price": 3000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454de99661b4a03bd4a0837"
+  },
+  "date": "5/5/2023",
+  "customer_name": "MANISH",
+  "customer_contact": "8004027148",
+  "items": 2,
+  "totalAmount": 11149,
+  "pay_price": 11149,
+  "due_price": 0,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454f33a3f4a7583cfca8ee5"
+  },
+  "date": "5/5/2023",
+  "customer_name": "anita sahu",
+  "customer_contact": "7398040068",
+  "items": 1,
+  "totalAmount": 3150,
+  "pay_price": 3150,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454f6553f4a7583cfca8ef3"
+  },
+  "date": "5/5/2023",
+  "customer_name": "anurag mishra",
+  "customer_contact": "7895262624",
+  "items": 1,
+  "totalAmount": 6175,
+  "pay_price": 6175,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6454fe1f8c41363bef6f8ac9"
+  },
+  "date": "5/5/2023",
+  "customer_name": "nitin yadav",
+  "customer_contact": "9305110037",
+  "items": 4,
+  "totalAmount": 4180,
+  "pay_price": 4180,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64551c9739fcfedf5a1216ab"
+  },
+  "date": "5/5/2023",
+  "customer_name": "taran singh",
+  "customer_contact": "9648483023",
+  "items": 1,
+  "totalAmount": 1200,
+  "pay_price": 1200,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64552687f3e3143854bb11d0"
+  },
+  "date": "5/5/2023",
+  "customer_name": "ritesh ",
+  "customer_contact": "9336115527",
+  "items": 2,
+  "totalAmount": 2800,
+  "pay_price": 2800,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64552a47f3e3143854bb11ee"
+  },
+  "date": "5/5/2023",
+  "customer_name": "saurabh",
+  "customer_contact": "8090937120",
+  "items": 3,
+  "totalAmount": 7920,
+  "pay_price": 7920,
+  "due_price": 0,
+  "payment_mode": "Phonepay",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64565c08edfed487dee98cd1"
+  },
+  "date": "5/6/2023",
+  "customer_name": "pranjul",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 10000,
+  "pay_price": 10000,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64566a242c901e8cb23550e8"
+  },
+  "date": "5/6/2023",
+  "customer_name": "RAJESH ",
+  "customer_contact": "9984840666",
+  "items": 3,
+  "totalAmount": 3000,
+  "pay_price": 3000,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64566efce2d68129a2260e1a"
+  },
+  "date": "5/6/2023",
+  "customer_name": "VIKASH",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 1000,
+  "pay_price": 1000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645674f63e13ebd405414e6f"
+  },
+  "date": "5/6/2023",
+  "customer_name": "sarthak mishra",
+  "customer_contact": "95547846119",
+  "items": 3,
+  "totalAmount": 3900,
+  "pay_price": 3900,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645679a53e13ebd405414e8c"
+  },
+  "date": "5/6/2023",
+  "customer_name": "anoop yadav",
+  "customer_contact": "8299327919",
+  "items": 2,
+  "totalAmount": 8685,
+  "pay_price": 8685,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64577072273b645b8730b484"
+  },
+  "date": "5/7/2023",
+  "customer_name": "LUV GUPTA ",
+  "customer_contact": "7800209494",
+  "items": 1,
+  "totalAmount": 7000,
+  "pay_price": 7000,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64578cca511f9c47282009a6"
+  },
+  "date": "5/7/2023",
+  "customer_name": "RONAK",
+  "customer_contact": "9935428630",
+  "items": 1,
+  "totalAmount": 3650,
+  "pay_price": 3650,
+  "due_price": 0,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645797ea02654819dd59f312"
+  },
+  "date": "5/7/2023",
+  "customer_name": "ALOK SINGH ",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 600,
+  "pay_price": 600,
+  "due_price": 0,
+  "payment_mode": "paytm",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a0b902654819dd59f365"
+  },
+  "date": "5/7/2023",
+  "customer_name": "satvinder singh",
+  "customer_contact": "9839945154",
+  "items": 1,
+  "totalAmount": 800,
+  "pay_price": 800,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a1ca02654819dd59f380"
+  },
+  "date": "5/7/2023",
+  "customer_name": "saurabh ",
+  "customer_contact": "7068774937",
+  "items": 5,
+  "totalAmount": 5600,
+  "pay_price": 5600,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457a63702654819dd59f3a9"
+  },
+  "date": "5/7/2023",
+  "customer_name": "PRADEEP KUMAR",
+  "customer_contact": "8859311890",
+  "items": 1,
+  "totalAmount": 1200,
+  "pay_price": 1200,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457aafc02654819dd59f3d0"
+  },
+  "date": "5/7/2023",
+  "customer_name": "pradeep",
+  "customer_contact": "9919262035",
+  "items": 1,
+  "totalAmount": 800,
+  "pay_price": 800,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457b53502654819dd59f48a"
+  },
+  "date": "5/7/2023",
+  "customer_name": "anmol bajpai",
+  "customer_contact": "9151705078",
+  "items": 2,
+  "totalAmount": 11968.1,
+  "pay_price": 10000,
+  "due_price": 1968.1000000000004,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c25802654819dd59f509"
+  },
+  "date": "5/7/2023",
+  "customer_name": "vikash arora",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 14098,
+  "pay_price": 14098,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c260c645aade2c3417f4"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c2ecc645aade2c3417f6"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 3,
+  "totalAmount": 1500,
+  "pay_price": null,
+  "due_price": 1500,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c3c3c645aade2c3417f8"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 4,
+  "totalAmount": 2000,
+  "pay_price": null,
+  "due_price": 2000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c62d02654819dd59f532"
+  },
+  "date": "5/7/2023",
+  "customer_name": "krishna agarwal",
+  "customer_contact": "9555142473",
+  "items": 3,
+  "totalAmount": 9880,
+  "pay_price": 9880,
+  "due_price": 0,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c68b02654819dd59f53f"
+  },
+  "date": "5/7/2023",
+  "customer_name": "krishna agarwal",
+  "customer_contact": "9555142473",
+  "items": 3,
+  "totalAmount": 9386,
+  "pay_price": 9386,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c830c645aade2c3417fc"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 3,
+  "totalAmount": 1425,
+  "pay_price": null,
+  "due_price": 1425,
+  "payment_mode": "",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c97991ac1394a6d63e96"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 950,
+  "pay_price": null,
+  "due_price": 950,
+  "payment_mode": "",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457c9ef567a1ad3c45d1b8b"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457cab3567a1ad3c45d1b8f"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457ceb5567a1ad3c45d1b9d"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457cfc5567a1ad3c45d1bab"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 3,
+  "totalAmount": 1350,
+  "pay_price": null,
+  "due_price": 1350,
+  "payment_mode": "",
+  "discountPer": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d0916f31249ef498e334"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d09d02654819dd59f5ad"
+  },
+  "date": "5/7/2023",
+  "customer_name": "varun kesarwani",
+  "customer_contact": "7800363498",
+  "items": 2,
+  "totalAmount": 4299,
+  "pay_price": 4299,
+  "due_price": 0,
+  "payment_mode": "online",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d28b6f31249ef498e344"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d2dd6f31249ef498e346"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d32e6f31249ef498e34a"
+  },
+  "date": "5/7/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 980,
+  "pay_price": null,
+  "due_price": 980,
+  "payment_mode": "",
+  "discountPer": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6457d3be02654819dd59f603"
+  },
+  "date": "5/7/2023",
+  "customer_name": "yash porwal",
+  "customer_contact": "8368728333",
+  "items": 2,
+  "totalAmount": 4084.05,
+  "pay_price": 4084,
+  "due_price": 0.0500000000001819,
+  "payment_mode": "Gpay",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645872346f31249ef498e352"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458727c6f31249ef498e358"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587703eebb007df9eadf1c"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458779aeebb007df9eadf20"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 980,
+  "pay_price": null,
+  "due_price": 980,
+  "payment_mode": "",
+  "discountPer": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645877fceebb007df9eadf26"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 960,
+  "pay_price": null,
+  "due_price": 960,
+  "payment_mode": "",
+  "discountPer": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645879f0eebb007df9eadf29"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587b23eebb007df9eadf2b"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 980,
+  "pay_price": null,
+  "due_price": 980,
+  "payment_mode": "",
+  "discountPer": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587b6aeebb007df9eadf2f"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587bd2eebb007df9eadf34"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587d4deebb007df9eadf37"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64587e5f4420600c5f5fffac"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 960,
+  "pay_price": null,
+  "due_price": 960,
+  "payment_mode": "",
+  "discountPer": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458802882aa006edeed3dbf"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645880e282aa006edeed3dc2"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458824a1b6bd7e311be605a"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 950,
+  "pay_price": null,
+  "due_price": 950,
+  "payment_mode": "",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645882821b6bd7e311be605e"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645883304396a7868888eaa4"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 950,
+  "pay_price": null,
+  "due_price": 950,
+  "payment_mode": "",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645883cdd8070e397694444a"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 1000,
+  "pay_price": null,
+  "due_price": 1000,
+  "payment_mode": "",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458863ad8070e3976944450"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 2,
+  "totalAmount": 960,
+  "pay_price": null,
+  "due_price": 960,
+  "payment_mode": "",
+  "discountPer": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458a41c64db7c6ff20a79e5"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 3,
+  "totalAmount": 1440,
+  "pay_price": null,
+  "due_price": 1440,
+  "payment_mode": "",
+  "discountPer": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458a57764db7c6ff20a7a08"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 5,
+  "totalAmount": 2375,
+  "pay_price": null,
+  "due_price": 2375,
+  "payment_mode": "",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458ab4c497469bf4727914b"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 450,
+  "pay_price": null,
+  "due_price": 450,
+  "payment_mode": "",
+  "discountPer": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458b44ab134215e5bb3de28"
+  },
+  "date": "5/8/2023",
+  "customer_name": "",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 480,
+  "pay_price": null,
+  "due_price": 480,
+  "payment_mode": "",
+  "discountPer": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458c38cfe5f679c6a28cf47"
+  },
+  "date": "5/8/2023",
+  "customer_name": "Ashish",
+  "customer_contact": "9621820709",
+  "items": 1,
+  "totalAmount": 9309.05,
+  "pay_price": 8800,
+  "due_price": 509.0499999999993,
+  "payment_mode": "",
+  "discountPer": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458cb1b4766473cf5f3a8fa"
+  },
+  "date": "5/8/2023",
+  "customer_name": "vaibhav",
+  "customer_contact": "8299664757",
+  "items": 2,
+  "totalAmount": 2700,
+  "pay_price": 2700,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458cc3c4766473cf5f3a908"
+  },
+  "date": "5/8/2023",
+  "customer_name": "vabhav",
+  "customer_contact": "",
+  "items": 1,
+  "totalAmount": 100,
+  "pay_price": 100,
+  "due_price": 0,
+  "payment_mode": "cash",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458f644f6362a195089bb20"
+  },
+  "date": "5/8/2023",
+  "customer_name": "gagan",
+  "customer_contact": "9695433337",
+  "items": 1,
+  "totalAmount": 1300,
+  "pay_price": 1300,
+  "due_price": 0,
+  "payment_mode": "Phonepay",
+  "discountPer": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64592394f9bf6ee27df197ab"
+  },
+  "date": "5/8/2023",
+  "customer_name": "VARUN KESARWANI",
+  "customer_contact": "7800363498",
+  "items": 1,
+  "totalAmount": 970.906,
+  "pay_price": 970.906,
+  "due_price": 0,
+  "payment_mode": "banking",
+  "discountPer": 30.6,
+  "__v": 0
+}]

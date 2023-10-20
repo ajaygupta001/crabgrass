@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422de16092a1982e10600b6"
+  },
+  "email": "stgrassoutfits@gmail.com",
+  "password": "Saurabh@7111",
+  "name": "Saurabh Tanwane",
+  "contact": {
+    "$numberLong": "9936117111"
+  },
+  "address": "Kanpur",
+  "__v": 0
+}]

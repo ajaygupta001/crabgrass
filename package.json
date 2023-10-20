@@ -1,0 +1,62 @@
+{
+  "name": "abscod-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.13",
+    "chart.js": "^4.2.1",
+    "env-cmd": "^10.1.0",
+    "formik": "^2.2.9",
+    "mongodb": "^6.1.0",
+    "next": "^13.1.6",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-barcode": "^1.4.6",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.7.1",
+    "react-loader-spinner": "^5.3.4",
+    "react-qr-barcode-scanner": "^1.0.6",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "^5.0.1",
+    "react-to-print": "^2.14.12",
+    "use-scan-detection": "^0.2.3",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.0.1"
+  },
+  "scripts": {
+    "start": "env-cmd react-scripts start",
+    "build": "env-cmd react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
+}

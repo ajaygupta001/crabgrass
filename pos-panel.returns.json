@@ -1,0 +1,304 @@
+[{
+  "_id": {
+    "$oid": "648887f6fd318d5b1ea16d65"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:15:02.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64888833fd318d5b1ea16ee2"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:16:03.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64888852fd318d5b1ea1705f"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:16:34.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64888888fd318d5b1ea17355"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:17:28.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648888d0fd318d5b1ea17941"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:18:40.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6488898dfd318d5b1ea190e8"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:21:49.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64888a13fd318d5b1ea19268"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:24:03.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64888b63fd318d5b1ea1a13c"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:29:39.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64888bb6fd318d5b1ea1a2ba"
+  },
+  "barcode_id": "f58ff8721ffe",
+  "product_name": "crabgarsss",
+  "product_category": "shirt",
+  "size": "M",
+  "price": "800",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-06-13T15:31:02.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64be6731548e81b51aa536ac"
+  },
+  "barcode_id": "8fa8c39496a3",
+  "product_name": "CRABGRASSS",
+  "product_category": "JEANS",
+  "size": "32",
+  "price": "1299",
+  "item": 1,
+  "discountPer": "5",
+  "return_date": {
+    "$date": "2023-07-24T11:57:37.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf4aa92ddc30414edca04b"
+  },
+  "barcode_id": "72163355cb40",
+  "product_name": "CRABGRASSS",
+  "product_category": "JEANS",
+  "size": "34",
+  "price": "1199",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T04:08:09.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf4c192ddc30414edce267"
+  },
+  "barcode_id": "2ae339cb135e",
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "size": "38",
+  "price": "3150",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T04:14:17.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf4c4e2ddc30414edce721"
+  },
+  "barcode_id": "2ae339cb135e",
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "size": "38",
+  "price": "3150",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T04:15:10.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf509d2ddc30414edd118b"
+  },
+  "barcode_id": "2ae339cb135e",
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "size": "38",
+  "price": "3150",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T04:33:33.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf56d32ddc30414edd6691"
+  },
+  "barcode_id": "2ae339cb135e",
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "size": "38",
+  "price": "3150",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T05:00:03.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf5dc32ddc30414edda3df"
+  },
+  "barcode_id": "2ae339cb135e",
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "size": "38",
+  "price": "3150",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T05:29:39.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf5e732ddc30414edda8a5"
+  },
+  "barcode_id": "2ae339cb135e",
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "size": "38",
+  "price": "3150",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T05:32:35.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf6dd42ddc30414ede0720"
+  },
+  "barcode_id": "2ae339cb135e",
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "size": "38",
+  "price": "3150",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T06:38:12.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf71ad2ddc30414ede1c70"
+  },
+  "barcode_id": "2ae339cb135e",
+  "product_name": "CRABGRASSS",
+  "product_category": "kurta paijama",
+  "size": "38",
+  "price": "3150",
+  "item": 1,
+  "discountPer": "0",
+  "return_date": {
+    "$date": "2023-07-25T06:54:37.463Z"
+  },
+  "__v": 0
+}]

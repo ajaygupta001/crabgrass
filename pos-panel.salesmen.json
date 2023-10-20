@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6428091209b91d9aa1d94f4c"
+  },
+  "company": "Crabgrasss",
+  "name": "Mahesh Pandey",
+  "contact": "123567890",
+  "email": "mahesh.pandey@crabgrasss.com",
+  "date": "1986-06-10",
+  "address": "122/338flat ",
+  "__v": 0,
+  "salePoint": 456.96595000000013
+},
+{
+  "_id": {
+    "$oid": "64280af509b91d9aa1d94f60"
+  },
+  "company": "Crabgrasss",
+  "name": "Rohit KUMAR",
+  "contact": "9882243924",
+  "email": "itsrkjames@gmail.com",
+  "date": "1996-03-31",
+  "address": "G-1254 KALYANPUR ",
+  "__v": 0,
+  "salePoint": 53.4246
+},
+{
+  "_id": {
+    "$oid": "64281653aa77c1cdfefb8d01"
+  },
+  "company": "Crabgrasss",
+  "name": "JOGENDRA",
+  "contact": "6387748885",
+  "email": "jogendrakumar806@gmail.com",
+  "date": "1991-08-10",
+  "address": "117/p1,85,kakadev,kanpur",
+  "__v": 0,
+  "salePoint": 68.40280000000001
+},
+{
+  "_id": {
+    "$oid": "6428254dea2ad17589ea349a"
+  },
+  "company": "Crabgrasss",
+  "name": "gauri ",
+  "contact": "6393048126",
+  "email": "gauri12@gmail.com",
+  "date": "1990-08-15",
+  "address": "f block 296 barra 8 ",
+  "__v": 0,
+  "salePoint": 295.4041500000001
+},
+{
+  "_id": {
+    "$oid": "642825baea2ad17589ea349c"
+  },
+  "company": "Crabgrasss",
+  "name": "abhisekh",
+  "contact": "9335993670",
+  "email": "abhisekh46@gmail.com",
+  "date": "1991-04-08",
+  "address": "sastri nagar",
+  "__v": 0,
+  "salePoint": 16.0791
+},
+{
+  "_id": {
+    "$oid": "6514215183c9d80b8212e7bb"
+  },
+  "company": "crabgrasss",
+  "name": "Ranjana",
+  "contact": "9076803804",
+  "email": "namnsnajan@112gmail.com",
+  "date": "2023-09-27",
+  "address": "rankjjaja",
+  "__v": 0
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6496c4f8837465d85a13e5b7"
+  },
+  "code": "CRABGRASS-10",
+  "discount": "10",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6496c501837465d85a13e5ba"
+  },
+  "code": "CRABGRASS-20",
+  "discount": "20",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6496c50b837465d85a13e5bd"
+  },
+  "code": "CRABGRASS-30",
+  "discount": "30",
+  "active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6496c51b837465d85a13e5c0"
+  },
+  "code": "CRABGRASS-40",
+  "discount": "40",
+  "active": false,
+  "__v": 0
+}]
